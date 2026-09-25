@@ -77,13 +77,12 @@
   }
 
   :global(.section--dark) .chart {
-    background: var(--swatch--mint-soft);
+    background: color-mix(in srgb, white 28%, var(--swatch--canopy));
     box-shadow: none;
-    color: var(--swatch--dark-green);
   }
 
   :global(.section--moss) .chart {
-    background: var(--swatch--mint-soft);
+    background: color-mix(in srgb, white 92%, var(--swatch--moss));
     box-shadow: none;
     color: var(--swatch--dark-green);
   }
@@ -96,7 +95,10 @@
     color: var(--default--heading);
   }
 
-  :global(.section--dark) .chart__title,
+  :global(.section--dark) .chart__title {
+    color: var(--swatch--white);
+  }
+
   :global(.section--moss) .chart__title {
     color: var(--swatch--canopy);
   }
@@ -131,19 +133,25 @@
     padding: 8px;
   }
 
-  :global(.section--dark) .donut__hole,
+  :global(.section--dark) .donut__hole {
+    background: color-mix(in srgb, white 28%, var(--swatch--canopy));
+  }
+
   :global(.section--moss) .donut__hole {
-    background: var(--swatch--mint-soft);
+    background: color-mix(in srgb, white 92%, var(--swatch--moss));
   }
 
   .donut__value {
     font-size: 1.6rem;
     font-weight: 800;
     line-height: 1;
-    color: var(--swatch--canopy);
+    color: var(--swatch--moss);
   }
 
-  :global(.section--dark) .donut__value,
+  :global(.section--dark) .donut__value {
+    color: var(--swatch--golden-gate-light-green);
+  }
+
   :global(.section--moss) .donut__value {
     color: var(--swatch--canopy);
   }
@@ -187,10 +195,13 @@
   .legend__value {
     font-weight: 800;
     font-variant-numeric: tabular-nums;
-    color: var(--swatch--canopy);
+    color: var(--swatch--moss);
   }
 
-  :global(.section--dark) .legend__value,
+  :global(.section--dark) .legend__value {
+    color: var(--swatch--golden-gate-light-green);
+  }
+
   :global(.section--moss) .legend__value {
     color: var(--swatch--canopy);
   }

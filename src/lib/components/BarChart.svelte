@@ -59,18 +59,17 @@
     background: var(--swatch--white);
     border-radius: 24px;
     box-shadow: 1px 1px 8px #00000014;
-    --chart-accent: var(--swatch--canopy);
+    --chart-accent: var(--swatch--moss);
   }
 
   :global(.section--dark) .chart {
-    background: var(--swatch--mint-soft);
+    background: color-mix(in srgb, white 28%, var(--swatch--canopy));
     box-shadow: none;
-    color: var(--swatch--dark-green);
-    --chart-accent: var(--swatch--canopy);
+    --chart-accent: var(--swatch--golden-gate-light-green);
   }
 
   :global(.section--moss) .chart {
-    background: var(--swatch--mint-soft);
+    background: color-mix(in srgb, white 92%, var(--swatch--moss));
     box-shadow: none;
     color: var(--swatch--dark-green);
     --chart-accent: var(--swatch--canopy);
@@ -84,7 +83,10 @@
     color: var(--default--heading);
   }
 
-  :global(.section--dark) .chart__title,
+  :global(.section--dark) .chart__title {
+    color: var(--swatch--white);
+  }
+
   :global(.section--moss) .chart__title {
     color: var(--swatch--canopy);
   }
@@ -127,9 +129,12 @@
     overflow: hidden;
   }
 
-  :global(.section--dark) .bar__track,
+  :global(.section--dark) .bar__track {
+    background: rgba(255, 255, 255, 0.14);
+  }
+
   :global(.section--moss) .bar__track {
-    background: rgba(10, 61, 50, 0.1);
+    background: rgba(26, 44, 37, 0.1);
   }
 
   .bar__fill {

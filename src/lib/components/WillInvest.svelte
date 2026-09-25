@@ -19,9 +19,9 @@
   ];
 
   const apgAwareness = [
-    { label: 'Monitoring very closely', value: 49, color: '#00b38c' },
-    { label: 'Monitoring somewhat closely', value: 38, color: '#79c8af' },
-    { label: 'Not closely monitoring', value: 13, color: '#cbe8dd' }
+    { label: 'Monitoring very closely', value: 49, color: '#00663c' },
+    { label: 'Monitoring somewhat closely', value: 38, color: '#6a9d34' },
+    { label: 'Not closely monitoring', value: 13, color: '#cac4bc' }
   ];
 
   const apgInvestmentLift = [

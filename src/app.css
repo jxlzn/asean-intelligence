@@ -15,26 +15,21 @@
 }
 
 :root {
-  /* Teal brand scale */
-  --swatch--canopy: #00b38c;
-  --swatch--moss: #79c8af;
-  --swatch--golden-gate-light-green: #a2d7c4;
-  --swatch--mint-pale: #cbe8dd;
-  --swatch--mint-wash: #def0e9;
-  --swatch--mint-soft: #eef7f3;
-
   --swatch--beige: #f6f0e7;
   --swatch--white: #ffffff;
+  --swatch--golden-gate-light-green: #adc24a;
+  --swatch--moss: #6a9d34;
+  --swatch--canopy: #00663c;
+  --swatch--dark-green: #1a2c25;
   --swatch--sand: #cac4bc;
-  --swatch--menu: #00b38c;
-  --swatch--dark-green: #0a3d32;
+  --swatch--menu: #005532;
 
   --default--heading: var(--swatch--canopy);
-  --default--background: var(--swatch--mint-soft);
-  --default--btn: var(--swatch--canopy);
+  --default--background: var(--swatch--beige);
+  --default--btn: var(--swatch--moss);
   --default--btn-label: var(--swatch--white);
   --default--text: var(--swatch--dark-green);
-  --default--accent: var(--swatch--canopy);
+  --default--accent: var(--swatch--moss);
   --default--pullout: var(--swatch--canopy);
 
   --font-sans: 'Public Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -57,8 +52,8 @@ html {
 
 body {
   margin: 0;
-  background-color: var(--default--background);
-  color: var(--default--text);
+  background-color: var(--swatch--beige);
+  color: #333;
   font-family: var(--font-sans);
   font-size: 16px;
   line-height: 140%;
@@ -166,8 +161,7 @@ h4 {
 }
 
 .section--moss {
-  /* Same primary band as dark — mid mint is too light for white text */
-  background: var(--swatch--canopy);
+  background: var(--swatch--moss);
   color: var(--swatch--white);
 }
 
@@ -247,14 +241,16 @@ h4 {
   margin-bottom: 0.75rem;
 }
 
-.section--dark .caption,
-.section--moss .caption {
-  color: var(--swatch--mint-pale);
+.section--dark .caption {
+  color: var(--swatch--golden-gate-light-green);
 }
 
-.section--dark .chart .caption,
+.section--moss .caption {
+  color: var(--swatch--golden-gate-light-green);
+}
+
 .section--moss .chart .caption {
-  color: var(--swatch--canopy);
+  color: var(--swatch--moss);
 }
 
 .btn {
@@ -287,10 +283,8 @@ h4 {
   padding: 28px 24px;
 }
 
-.section--dark .stat-card,
-.section--moss .stat-card {
-  background: var(--swatch--mint-soft);
-  color: var(--swatch--dark-green);
+.section--dark .stat-card {
+  background: color-mix(in srgb, white 28%, var(--swatch--canopy));
 }
 
 .section:not(.section--dark):not(.section--moss) .stat-card {
@@ -302,13 +296,13 @@ h4 {
   font-size: clamp(2.4rem, 4vw, 3.5rem);
   font-weight: 800;
   line-height: 1;
-  color: var(--swatch--canopy);
+  color: var(--swatch--moss);
   margin-bottom: 12px;
 }
 
 .section--dark .stat-value,
 .section--moss .stat-value {
-  color: var(--swatch--canopy);
+  color: var(--swatch--golden-gate-light-green);
 }
 
 .stat-label {
@@ -338,12 +332,12 @@ h4 {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: var(--swatch--canopy);
+  background: var(--swatch--moss);
 }
 
 .section--dark .bullet-list li::before,
 .section--moss .bullet-list li::before {
-  background: var(--swatch--mint-pale);
+  background: var(--swatch--golden-gate-light-green);
 }
 
 .quote-block {
@@ -404,7 +398,7 @@ h4 {
 .icon-card .pct {
   font-size: 2rem;
   font-weight: 800;
-  color: var(--swatch--canopy);
+  color: var(--swatch--moss);
 }
 
 .reveal {
