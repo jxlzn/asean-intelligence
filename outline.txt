@@ -1,0 +1,337 @@
+
+
+Content tabs
+
+Welcome	2
+Executive Summary	3
+Energy cost inflation bites	5
+Is sustainability taking a backseat?	9
+The digital surge meets the energy barrier	12
+Will businesses invest?	14
+
+
+
+
+
+Powering Asean’s Future: Navigating the energy-AI-sustainability trilemma 
+
+
+
+
+
+
+
+
+
+
+
+Welcome
+
+
+Following the warm reception to our inaugural flagship study, Asean Intelligence 2026, The Business Times is proud to present our second regional report, Powering Asean’s Future. 
+
+Our purpose in undertaking this research is simple yet vital: to look beyond the daily churn of geopolitical headlines and provide a rigorous, grounded examination of how Southeast Asian enterprises are navigating a rapidly evolving energy landscape shaped by rising energy costs, growing sustainability expectations, and the accelerating adoption of AI and digital technologies. 
+
+We are living through a period of profound recalibration. Asean businesses are currently navigating a fourth factor being thrown into the traditional understanding of the energy trilemma: artificial intelligence (AI). The effect of accelerating integration of AI on energy security, energy equity (affordability), and environmental sustainability is real. And for many leaders, balancing these competing imperatives has become the defining strategic challenge of our time.
+
+To understand how these tensions manifest on the ground, we surveyed 514 business leaders across the region in partnership with research agency Kantar. 
+
+What we found is a narrative of pragmatism and difficult trade-offs. While immediate financial pressures have forced some organisations to temporarily rethink their sustainability commitments, the underlying dedication to a sustainable, digital-first future remains robust.
+
+We hope this report serves not only as a benchmark of where the region stands today, but as a thoughtful companion for leaders charting their course through uncertainty.
+
+
+Mindy Tan
+Editor, Thought Leadership 
+
+
+
+
+
+
+
+Executive Summary
+
+Powering Asean’s Future examines how enterprise decision-makers across South-east Asia are managing the intersection of energy cost inflation, AI adoption, and corporate net-zero commitments. 
+
+What emerges is a picture of operational pragmatism and strategic recalibration. Asean enterprises are confronting immediate cost shocks and energy constraints by pivoting from high-level sustainability pledges to tangible, productivity-led efficiency measures.
+
+Key takeaways
+	•	The energy costsSqueeze & the Vietnam paradox:
+	•	79 per cent of ASEAN enterprises experienced higher utility bills this year, leading 76 per cent to report shrinking profit margins (severely felt in Malaysia at 84 per cent, and Singapore and Indonesia at 81 per cent).
+	•	Vietnam presents a striking exception: Despite 87 per cent reporting elevated energy costs, 37 per cent maintained resilient profit margins due to operational hedging and productivity measures.
+	•	To cope with elevated costs, 39 per cent of businesses are passing price increases to customers (Malaysia 50 per cent), while 54 per cent of Singaporean firms absorb cost increases internally.
+	•	Decarbonisation delays vs. ESG integration:
+	•	Driven by immediate margin pressures, 53 per cent of businesses have delayed or deprioritised net-zero goals. Singapore leads the region in reporting significant delays (29 per cent), whereas Indonesia (39 per cent) and Vietnam (37 per cent) are accelerating sustainability plans.
+	•	ESG remains firmly embedded in core operations (76 per cent). Companies are prioritising cost-reducing, mature technologies: energy efficiency (41 per cent) and solar/on-site renewables (66 per cent).
+	•	Green financing serves as the primary catalyst, with 87 per cent of businesses reporting improved access to sustainable capital.
+	•	The AI energy barrier & high ROI conviction:
+	•	Driven by productivity goals, 63 per cent of enterprises increased AI investments over the past 12 months (led by Indonesia at 85 per cent).
+	•	81 per cent expect AI scaling to drive moderate-to-significant increases in energy demand, raising concerns over rising operating costs (46 per cent) and infrastructure upgrade requirements (39 per cent).
+	•	Despite power constraints, 78 per cent of leaders remain convinced that the commercial returns of AI outweigh its energy burden.
+	•	Regional investment & the Asean Power Grid catalyst:
+	•	81 per cent of business leaders state that energy availability, reliability, and affordability directly influence their regional investment and expansion decisions.
+	•	Awareness of the ASEAN Power Grid (APG) is exceptionally high (87 per cent), and 71 per cent indicate that meaningful progress on the regional grid would directly increase their willingness to invest in ASEAN.
+Research Methodology
+
+Commissioned by The Business Times and executed by Kantar, this regional study provides a grounded examination of how Southeast Asian enterprise decision-makers manage energy cost inflation, sustainability targets, and digital acceleration.
+	•	Survey Format & Fieldwork:
+	•	Methodology: Quantitative online self-completed survey (10–12 minutes).
+	•	Fieldwork period: July 2026.
+	•	Sample size: 514.
+	•	Target Audience Profile:
+	•	Demographics: Business owners, C-suite executives, and senior strategic decision-makers who lead or co-lead organisational decision-making regarding energy strategy, fuel sourcing, utility cost management, or ESG/sustainability impact.
+	•	Geographic Breakdown (n = 514):
+	•	Indonesia: 17 per cent (n = 88)
+	•	Malaysia: 15 per cent (n = 76)
+	•	Philippines: 17 per cent (n = 88)
+	•	Singapore: 16 per cent (n = 84)
+	•	Thailand: 17 per cent (n = 88)
+	•	Vietnam: 18 per cent (n = 90)
+
+Energy cost inflation bites 
+Disruptions in the Strait of Hormuz - a point controlling about 35 per cent of global seaborne crude oil trade - did not remain an abstract geopolitical headline for long. For nearly eight in 10 Asean enterprise leaders, the global shock materialised directly on their monthly utility statements and is starting to make its impact felt on their bottom lines.
+
+Seventy nine per cent of businesses surveyed across the region reported higher energy bills this year, with companies in Vietnam (87 per cent), Malaysia (83 per cent) and Singapore (82 per cent) feeling it the most. 
+
+Thailand reported the lowest incidence of increase at 69 per cent. 
+
+Overall, the majority reported that the increase was in the moderate range (34 per cent). 
+
+The profitability squeeze 
+
+While the cost shock is widespread, its impact on company bottom lines varies across markets. 
+
+Regionally, 76 per cent of Asean businesses reported that rising energy costs are eroding their profitability, with companies from Malaysia (84 per cent), Singapore and Indonesia (81 per cent respectively) hurting the most. 
+
+Vietnam presents a striking exception. While Vietnamese businesses topped the scales when it came to reporting elevated energy costs (87 per cent indicated costs had increased), their bottom lines remained the most resilient in the region—37 per cent reported zero or even positive impact on their profit margins, compared to the regional average of 61 per cent who reported a negative impact.
+
+Requires reporting: Quote from company talking about choices they’ve made differently whether in terms of investments/delaying investments 
+
+1. A Vietnamese company that says yes energy costs have increased drastically but profit margins not that impacted and what they are doing. 
+2. Singapore/Malaysian company on how they are responding to cost pressures
+
+[Interactive] How are companies from your country experiencing energy cost pressures and its impact on profitability? file:///C:/Users/tanmindy/Desktop/Kantar%20energy%20slides/Asean%20cost%20breakdown.html
+
+
+
+
+
+
+What are companies doing to offset rising costs? 
+
+
+It has been over half a year since energy prices have risen and businesses are not standing still. 
+
+Energy cost pressures are most acute across three core operational areas: 
+
+[Simple graphic]
+🏭                                                                        🚢                                               ☁️
+Operations and                                         Transport, logistics and                IT and digital
+production costs (58%)                          supply chain costs (56%)               infrastructure (40%)
+
+
+Rather than relying on short-term cost recovery measures, the 514 businesses we surveyed are leaning into productivity-led solutions such as investing in energy efficiency (61 per cent) and  accelerating automation and AI adoption (54 per cent), veering away from relocating operations (37 per cent) or delaying long-term investments (44 per cent). 
+
+Assuming energy costs remain elevated, most organisations are choosing to keep to the playbook and invest in energy efficient technologies (66 per cent), accelerating automation and digitisation (62 per cent); and reducing or restructuring energy-intensive business activities (52 per cent). 
+
+These options take precedence over reviewing or delaying investment and expansion plans (43 per cent) or relocating operations to lower-cost markets (37 per cent). 
+
+This signals a clear strategic pivot across Southeast Asia, from viewing energy as an operational expense to treating it as a critical enabler of competitiveness, expansion and business continuity. 
+
+Building operational resilience 
+Across the region, confidence in energy disruption preparedness is high, with 85 per cent of businesses reporting they are moderately to very well prepared. Preparedness is particularly strong in Thailand (94 per cent) and Indonesia (90 per cent), while businesses in Malaysia (75 per cent) and Singapore (81 per cent) report comparatively lower levels of preparedness.
+
+ To shield their operations from potential disruptions, companies are relying on a mix of continuity measures: 
+	•	Securing alternative energy sources or suppliers (58 per cent) 
+	•	Implementing energy efficiency initiatives (56 per cent)
+	•	Maintaining backup energy sources (54 per cent) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Is sustainability taking a backseat?
+
+Southeast Asia stands at a strategic crossroad. As inflation erodes profitability, regional enterprises are confronting a stark operational paradox: short-term margin preservation is forcing near-term delays in net-zero targets even as energy cost pressure accelerates the long-term imperative to transition to clean energy. 
+
+When evaluating immediate business priorities, cost efficiency leads decision-making for 38 per cent of organisations, followed by energy security and reliability (26 per cent). In contrast, pure sustainability and decarbonisation goals were identified as the primary driver by only 9 per cent of businesses. The remaining 27 per cent identified all three factors as being equally important. 
+
+Meanwhile, national priorities reflect distinct market realities: Indonesia (49 per cent) and Malaysia (47 per cent) are heavily cost-driven, whereas Singapore places its primary focus on energy security (43 per cent). 
+
+The regional divergence: Pausing vs accelerating 
+This has created a temporary friction point for corporate climate ambitions. Regionally, more than half (53 per cent) of businesses reported that their decarbonisation plans have been delayed or deprioritised compared with the 26 per cent who have accelerated their efforts. 
+
+[Simple Graphic] 
+
+Table data LATEST Kantar x BTG_ Powering ASEANs Future REPORT_2026.09.14.pptx-EmbeddedFile 
+
+Singapore leads the region in reporting significant delays or deprioritisation (29 per cent, well above the regional average of 20 per cent). Conversely, businesses in Indonesia (39 per cent) and Vietnam (37 per cent) are actively accelerating their sustainability plans.
+
+
+Requires reporting: Quote from company/analyst talking about why Singapore most likely to have significant delay - more advanced than other countries and why Indo/Vietnam most likely to accelerate their efforts. 
+
+
+
+Despite these short-term delays, commitment to the transition remains firm: 69 per cent of respondents project that their energy mix will become greener over the next three to five years. 
+
+However, conventional energy sources remain essential for 28 per cent of businesses. This is particularly so in Vietnam (41 per cent) and among SMEs (33 per cent). Businesses in Singapore (61 per cent) and Malaysia (62 per cent) are the most likely to expect a gradual transition toward cleaner energy.
+
+Practical action: ESG as operational efficiency 
+While high level decarbonisation goals may have been delayed, ESG principles remain firmly integrated into core operations. 
+
+Overall, 76 per cent of organisations reported that ESG is fully embedded into their strategy and decision making (36 per cent) and key business functions (40 per cent). Integration rates were highest in Vietnam (83 per cent), Thailand (79 per cent), and Indonesia (78 per cent). Large enterprises (78 per cent) were more likely than SMEs (71 per cent) to have ESG embedded into their core business activities. 
+
+Rather than pursuing broad carbon reduction targets, organisations are focusing on tangible, cost-reducing sustainability actions. 
+
+Over the next three to five years, companies are overwhelmingly focused on: 
+	•	Energy efficiency: Improving energy efficiency and reducing overall consumption is the top focus for 41 per cent of companies.
+	•	On-site renewables: One in five companies cited increasing the use of renewable energy resources as one of their key actions. 
+
+When selecting clean energy solutions, companies indicated that they favour mature and scalable technologies including solar power and on-site renewable generation (66 per cent) and renewable energy sourcing via renewable energy certificates and power purchase agreements (63 per cent).
+
+Thailand stood out for its higher interest in electrification of operations (60 per cent versus 49 per cent overall) and biofuels (56 per cent versus 44 per cent overall), indicating stronger consideration of alternative energy applications alongside renewable energy adoption. 
+
+Barriers and catalysts 
+The primary obstacle to clean energy adoption is practical rather than philosophical: 48 per cent of businesses cited limited availability of suitable clean energy options as the main barrier, followed by Integration challenges with existing operational systems and difficulty measuring business returns (38 per cent respectively). 
+
+Market-specific barriers differ significantly: Businesses from the Philippines identified limited availability of suitable clean energy options as a key barrier (61 per cent vs the average of 48 per cent); Indonesia highlighted infrastructure constraints (50 per cent vs the average of 34 per cent); and Vietnam reported greater challenges integrating clean energy solutions into existing operations (53 per cent vs the average of 38 per cent).
+
+To overcome these bottlenecks, businesses are looking for policy support and capital.
+
+Policy demands: 55 per cent of businesses highlighted greater access to renewable energy sources and procurement options as their top policy requirement, outpacing requests for tax incentives or grants (48 per cent) and energy subsidies (43 per cent). 
+
+Market-specific policy demands reflect local pain points: Respondents from Thailand prioritise renewable access (66 per cent vs 55 per cent overall); Vietnam showed stronger demand for tax incentives and grants (58 per cent vs 48 per cent overall); and Indonesia called for direct energy subsidies and cost support (52 per cent vs 43 per cent overall).
+
+Access to capital: Green financing represents the single strongest enabler in the region. Across Asean, 87 per cent of businesses reported improved access to green and sustainable financing, with 41 per cent noting significant improvements. Satisfaction was highest in the Philippines (95 per cent) and Vietnam (94 per cent), while Malaysia reported the lowest rate of improved financing access at 78 per cent.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The digital surge meets the energy barrier 
+
+Driven by the search for productivity gains, 63 per cent of businesses reported that they increased their investment in AI or data-driven technologies over the past 12 months. Large enterprises led this trend, with 69 per cent raising AI investments compared to 53 per cent of SMEs. 
+
+Growth is particularly pronounced in Indonesia (85 per cent), where half of businesses reported a moderate increase in AI investment changes over the last year and a further 35 per cent reported a significant increase.
+
+Small preamble abt this - Check if data computes - Better to put the previous survey here compared with below since cool interactive is there 
+
+
+
+
+However, this digital surge is placing substantial pressure on power requirements: 81 per cent of businesses said they expect moderate (41 per cent) to significant (40 per cent) increase in energy demand as adoption scales. 
+
+Expectations are strongest in Indonesia (88 per cent), while Vietnam stands out for the intensity of concern - 58 per cent said they expect a significant increase in energy demand. 
+
+On the other end of the spectrum, businesses in Singapore are more likely to anticipate only a moderate increase (54 per cent) and less likely to foresee a significant impact (17 per cent).
+
+Small table on perceived AI energy impact by market 
+
+Cost and infrastructure bottlenecks 
+As AI compute requirements grow, enterprises expect energy demand to manifest in two main operational challenges: rising electricity or operating costs (46 per cent) and pressure to upgrade existing infrastructure (39 per cent). 
+
+The nature of these hurdles vary across markets: Malaysia cited rising operating costs as their main challenge (58 per cent); businesses in the Philippines said they expect constraints in reliable power supply (49 per cent); and Thailand anticipated operational adjustments (49 per cent) and infrastructure upgrade requirements (47 per cent) as energy demand increases. 
+
+To manage these energy implications, 52 per cent of enterprises are prioritising energy-efficient AI solutions, 48 per cent are evaluating AI investments through an energy-cost lens, and 46 per cent are setting targets to manage AI-related energy consumption (46 per cent). 
+
+Indonesia businesses are particularly proactive, significantly more likely to prioritise energy-efficient AI solutions (68 per cent) while Vietnam leads in increasing the use of renewable or low-carbon energy sources (57 per cent). 
+
+Malaysia exhibited the highest level of inertia - 26 per cent of businesses reported that no specific actions had been taken to manage AI-related energy consumption. 
+
+The ROI conviction
+Despite operational hurdles, enterprises remain overwhelmingly committed to digital transformation. Regionwide, nearly four in five (78 per cent) of businesses indicated they expect benefits from AI to outweigh associated energy requirements; Singapore (84 per cent), Vietnam (83 per cent) and Thailand (81 per cent) led the pack in having high expectations for AI.
+
+The Philippines stood out as a notable exception with significantly fewer leaders believing the benefits outweigh the energy demands (64 per cent vs 78 per cent overall) and 30 per cent viewing it as an even trade-off. 
+
+
+
+
+
+
+Will businesses invest? 
+
+In our earlier flagship report Asean Intelligence 2026 we found that Asean businesses are increasingly looking closer to home for growth and investment opportunities amid global volatility and trade tensions. 
+
+One of the reasons driving this, we found, is optimism over Asean’s economic integration. 
+
+As this deepens, energy conditions - specifically infrastructure reliability, grid connectivity and regulatory stability - have emerged as key determinants in corporate investment decisions. 
+
+Four in five businesses (81 per cent) identify energy availability, affordability and sustainability as an important or critical factor in their regional investment decisions, with enterprises in Thailand and Vietnam placing the greatest weight on energy readiness. 
+
+Overall, business leaders (81 per cent) are confident that Asean’s energy infrastructure can support future growth over the next three to five years. However, perceptions vary across borders - confidence is particularly high in Indonesia (94 per cent) and Vietnam (89 per cent) while businesses in the Philippines (66 per cent) and Malaysia (71 per cent) are less convinced. 
+
+When assessing threats to energy security over the next three to five years, Asean enterprises indicated they are most concerned about external macroeconomic shocks beyond their direct control. Global energy price volatility (44 per cent) led the pack, followed by geopolitical tensions affecting energy supplies (37 per cent) and supply chain disruptions impacting energy inputs (36 per cent). 
+
+The regional catalyst: The Asean Power Grid 
+
+Across Southeast Asia, corporate awareness of regional infrastructure initiatives is exceptionally high: 9 in 10 (87 per cent) businesses said they are aware and monitoring developments on the Asean Power Grid either very closely (49 per cent) or somewhat closely (38 per cent). 
+
+Engagement is strongest in Indonesia and Vietnam, where businesses are most likely to monitor developments very closely (67 and 62 per cent respectively), whereas Malaysia is significantly less likely than the regional average to actively track Asean Power Grid developments (75 per cent vs 87 per cent). Large companies are more likely than SMEs (91 per cent vs 82 per cent) to keep track of APG developments. 
+
+Progress on regional grid connectivity serves as a major driver for capital deployment: 71 per cent of businesses indicated that meaningful progress on the Asean Power Grid would increase their willingness to invest and expand within the region, highlighting the potential economic impact of stronger regional energy integration. 
+
+This sentiment was strongest amongst Indonesian businesses (84 per cent) followed by The Philippines (70 per cent) and Malaysia (70 per cent). Large enterprises (77 per cent) also indicated they would increase their willingness to invest or expand in the region. 
+
+This suggests that improvements in regional energy connectivity would play an increasingly important role in shaping future investment decisions. 
+
+Overall confidence in near-term grid progress remains positive - 65 per cent of business leaders expert meaningful APG progress  within the next three to five years. Optimism was highest in Vietnam (80 per cent) compared to more cautious outlooks in the Philippines (55 per cent) and Malaysia (54 per cent).
+
+Quote from Ember? → Delays to the ASEAN Power Grid (APG) will cost the region $2.6b for every year the project slips past its 2035 target, accumulating to nearly $14b over five years, according to Ember.
+Ember's report, "The ASEAN Power Grid: Why Every Year of Delay Matters," published on 20 August, models the economic, fuel, and emissions costs of postponing the regional grid, which links national power systems across Southeast Asia.
+
+Government efforts
+
+Government efforts to manage energy-related challenges are generally viewed favourably—83 per cent of businesses rate their government's energy management efforts as effective, with satisfaction highest in Vietnam (91 per cent) and Singapore (86 per cent), and lower in Malaysia (78 per cent) and the Philippines (79 per cent).
+
+[Interactive]
+A rolodex of BT articles talking about what the governments have done? Inspired by SG Bank AI agents
+
