@@ -30,19 +30,17 @@
       </h4>
       <ul class="bullet-list">
         <li>
-          79 per cent of ASEAN enterprises experienced higher utility bills this year, leading 76 per
-          cent to report shrinking profit margins (severely felt in Malaysia at 84 per cent, and
-          Singapore and Indonesia at 81 per cent).
+          79 per cent of Asean enterprises experienced higher energy costs this year, resulting in 76
+          per cent reporting shrinking profit margins.
         </li>
         <li>
-          Vietnam presents a striking exception: Despite 87 per cent reporting elevated energy costs, 37
-          per cent maintained resilient profit margins due to operational hedging and productivity
-          measures.
+          This was most severely felt in Malaysia at 84 per cent, and Singapore and Indonesia at 81 per
+          cent.
         </li>
         <li>
-          To cope with elevated costs, 39 per cent of businesses are passing price increases to
-          customers (Malaysia 50 per cent), while 54 per cent of Singaporean firms absorb cost increases
-          internally.
+          Vietnam presented a striking exception: While 87 per cent (the highest regionally) reported
+          elevated energy costs, 61 per cent reported that the rising energy costs have had a moderate
+          to significant impact on their profitability (compared with 76 per cent regionally).
         </li>
       </ul>
     </div>
@@ -54,18 +52,16 @@
       <ul class="bullet-list">
         <li>
           Driven by immediate margin pressures, 53 per cent of businesses have delayed or deprioritised
-          net-zero goals. Singapore leads the region in reporting significant delays (29 per cent),
-          whereas Indonesia (39 per cent) and Vietnam (37 per cent) are accelerating sustainability
-          plans.
+          decarbonisation plans.
         </li>
         <li>
-          ESG remains firmly embedded in core operations (76 per cent). Companies are prioritising
-          cost-reducing, mature technologies: energy efficiency (41 per cent) and solar/on-site
-          renewables (66 per cent).
+          Singapore led the region in reporting significant delays (29 per cent), whereas Indonesia (39
+          per cent) and Vietnam (37 per cent) reported that they are accelerating their plans.
         </li>
+        <li>ESG remains firmly embedded in core operations (76 per cent).</li>
         <li>
-          Green financing serves as the primary catalyst, with 87 per cent of businesses reporting
-          improved access to sustainable capital.
+          Green financing serves as the single strongest enabler in the region, with 87 per cent of
+          businesses reporting improved access to sustainable capital.
         </li>
       </ul>
     </div>
@@ -77,7 +73,7 @@
       <ul class="bullet-list">
         <li>
           Driven by productivity goals, 63 per cent of enterprises increased AI investments over the
-          past 12 months (led by Indonesia at 85 per cent).
+          past 12 months.
         </li>
         <li>
           81 per cent expect AI scaling to drive moderate-to-significant increases in energy demand,
@@ -93,7 +89,7 @@
 
     <div class="takeaway" use:reveal>
       <h4>
-        <a href="#will-invest">Will businesses invest?</a>
+        <a href="#plugged-in">Plugged in: Can the Asean Power Grid deliver?</a>
       </h4>
       <ul class="bullet-list">
         <li>
@@ -101,9 +97,9 @@
           directly influence their regional investment and expansion decisions.
         </li>
         <li>
-          Awareness of the ASEAN Power Grid (APG) is exceptionally high (87 per cent), and 71 per cent
-          indicate that meaningful progress on the regional grid would directly increase their
-          willingness to invest in ASEAN.
+          Awareness of the Asean Power Grid (APG) is exceptionally high (87 per cent); 71 per cent of
+          respondents indicated that meaningful progress on the regional grid would directly increase
+          their willingness to invest in Asean.
         </li>
       </ul>
     </div>

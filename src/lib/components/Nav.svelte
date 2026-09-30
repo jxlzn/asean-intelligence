@@ -4,12 +4,13 @@
   let { open = $bindable(false) } = $props();
 
   const links = [
-    { id: 'welcome', num: '01', label: 'Welcome' },
+    { id: 'foreword', num: '01', label: 'Foreword' },
     { id: 'executive-summary', num: '02', label: 'Executive Summary' },
     { id: 'energy-cost', num: '03', label: 'Energy cost inflation bites' },
     { id: 'sustainability', num: '04', label: 'Is sustainability taking a backseat?' },
     { id: 'digital-surge', num: '05', label: 'The digital surge meets the energy barrier' },
-    { id: 'will-invest', num: '06', label: 'Will businesses invest?' }
+    { id: 'plugged-in', num: '06', label: 'Plugged in: Can the Asean Power Grid deliver?' },
+    { id: 'conclusion', num: '07', label: 'Conclusion' }
   ];
 
   let scrolled = $state(false);

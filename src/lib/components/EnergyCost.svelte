@@ -42,9 +42,9 @@
         statements and is starting to make its impact felt on their bottom lines.
       </p>
       <p>
-        Seventy nine per cent of businesses surveyed across the region reported higher energy bills this
-        year, with companies in Vietnam (87 per cent), Malaysia (83 per cent) and Singapore (82 per
-        cent) feeling it the most.
+        Seventy nine per cent of businesses surveyed across the region reported higher energy bills –
+        associated with electricity and fuel – this year, with companies in Vietnam (87 per cent),
+        Malaysia (83 per cent) and Singapore (82 per cent) feeling it the most.
       </p>
       <p>Thailand reported the lowest incidence of increase at 69 per cent.</p>
       <p>
@@ -88,9 +88,10 @@
       <p>
         Vietnam presents a striking exception. While Vietnamese businesses topped the scales when it
         came to reporting elevated energy costs (87 per cent indicated costs had increased), their
-        bottom lines remained the most resilient in the region—37 per cent reported zero or even
-        positive impact on their profit margins, compared to the regional average of 61 per cent who
-        reported a negative impact.
+        bottom lines remained the most resilient in the region — 37 per cent reported zero or even
+        positive impact on their profit margins. Overall, 61 per cent reported that the rising costs
+        have had a negative impact on their profitability, compared with the regional average of 76 per
+        cent.
       </p>
     </div>
 
@@ -141,17 +142,17 @@
         (37 per cent) or delaying long-term investments (44 per cent).
       </p>
       <p>
-        Assuming energy costs remain elevated, most organisations are choosing to keep to the playbook
-        and invest in energy efficient technologies (66 per cent), accelerating automation and
-        digitisation (62 per cent); and reducing or restructuring energy-intensive business activities
-        (52 per cent).
+        If energy costs remain elevated in the long run, most organisations are choosing to invest in
+        energy efficient technologies (66 per cent). Many also plan to accelerate automation and
+        digitisation (62 per cent); and reduce or restructure energy-intensive business activities (52
+        per cent).
       </p>
       <p>
         These options take precedence over reviewing or delaying investment and expansion plans (43 per
         cent) or relocating operations to lower-cost markets (37 per cent).
       </p>
       <p>
-        This signals a clear strategic pivot across Southeast Asia, from viewing energy as an
+        This signals a clear strategic pivot across South-east Asia, from viewing energy as an
         operational expense to treating it as a critical enabler of competitiveness, expansion and
         business continuity.
       </p>

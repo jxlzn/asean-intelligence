@@ -22,7 +22,7 @@
     <h1>
       Powering<br />
       Asean’s<br />
-      Future
+      Future 2026
     </h1>
     <p class="hero__subheading">How energy security, sustainability and AI are reshaping business decisions across Asean</p>
   </div>

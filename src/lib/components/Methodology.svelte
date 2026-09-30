@@ -4,12 +4,15 @@
 
 <section class="section" id="methodology">
   <div class="container">
+    <div class="section-heading" use:reveal>
+      <span class="section-number">08</span>
+      <h2>Research Methodology</h2>
+    </div>
+
     <div use:reveal>
-      <p class="caption">Research Methodology</p>
-      <h3>How we listened to the region</h3>
       <p class="body-text">
         Commissioned by The Business Times and executed by Kantar, this regional study provides a
-        grounded examination of how Southeast Asian enterprise decision-makers manage energy cost
+        grounded examination of how South-east Asian enterprise decision-makers manage energy cost
         inflation, sustainability targets, and digital acceleration.
       </p>
     </div>

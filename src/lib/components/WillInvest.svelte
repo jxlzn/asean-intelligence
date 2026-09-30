@@ -3,6 +3,7 @@
   import { parallax } from '../actions.js';
   import BarChart from './BarChart.svelte';
   import DonutChart from './DonutChart.svelte';
+  import ArticlesRolodex from './ArticlesRolodex.svelte';
 
   const infrastructureConfidence = [
     { label: 'Indonesia', value: 94 },
@@ -19,9 +20,9 @@
   ];
 
   const apgAwareness = [
-    { label: 'Monitoring very closely', value: 49, color: '#00663c' },
-    { label: 'Monitoring somewhat closely', value: 38, color: '#6a9d34' },
-    { label: 'Not closely monitoring', value: 13, color: '#cac4bc' }
+    { label: 'Monitoring very closely', value: 49, color: '#00b38c' },
+    { label: 'Monitoring somewhat closely', value: 38, color: '#8a857c' },
+    { label: 'Not closely monitoring', value: 13, color: '#cceaf5' }
   ];
 
   const apgInvestmentLift = [
@@ -33,25 +34,23 @@
   ];
 </script>
 
-<section class="section section--moss" id="will-invest">
+<section class="section section--moss" id="plugged-in">
   <div class="container">
     <div class="section-heading" use:reveal>
       <span class="section-number">06</span>
-      <h2>Will businesses invest?</h2>
+      <h2>Plugged in: Can the Asean Power Grid deliver?</h2>
     </div>
 
     <div class="body-text" use:reveal>
       <p>
-        In our earlier flagship report Asean Intelligence 2026 we found that Asean businesses are
-        increasingly looking closer to home for growth and investment opportunities amid global
-        volatility and trade tensions.
+        One of the key reasons why Asean businesses are increasingly looking closer to home for growth
+        and investment opportunities amid global volatility and trade tensions, is optimism over
+        Asean’s economic integration.
       </p>
       <p>
-        One of the reasons driving this, we found, is optimism over Asean’s economic integration.
-      </p>
-      <p>
-        As this deepens, energy conditions - specifically infrastructure reliability, grid connectivity
-        and regulatory stability - have emerged as key determinants in corporate investment decisions.
+        As this deepens, energy access conditions - specifically infrastructure reliability, grid
+        connectivity and regulatory stability - have emerged as key determinants in corporate investment
+        decisions.
       </p>
       <p>
         Four in five businesses (81 per cent) identify energy availability, affordability and
@@ -68,9 +67,9 @@
       <p>
         When assessing threats to energy security over the next three to five years, Asean enterprises
         indicated they are most concerned about external macroeconomic shocks beyond their direct
-        control. Global energy price volatility (44 per cent) led the pack, followed by geopolitical
-        tensions affecting energy supplies (37 per cent) and supply chain disruptions impacting energy
-        inputs (36 per cent).
+        control. Global energy price volatility (44 per cent) was the top concern, followed by
+        geopolitical tensions affecting energy supplies (37 per cent) and supply chain disruptions
+        impacting energy inputs (36 per cent).
       </p>
     </div>
 
@@ -100,7 +99,7 @@
     <h3 use:reveal>The regional catalyst: The Asean Power Grid</h3>
     <div class="body-text" use:reveal>
       <p>
-        Across Southeast Asia, corporate awareness of regional infrastructure initiatives is
+        Across South-east Asia, corporate awareness of the push for regional energy trade is
         exceptionally high: 9 in 10 (87 per cent) businesses said they are aware and monitoring
         developments on the Asean Power Grid either very closely (49 per cent) or somewhat closely (38
         per cent).
@@ -147,20 +146,24 @@
       </p>
       <p>
         Overall confidence in near-term grid progress remains positive - 65 per cent of business
-        leaders expert meaningful APG progress  within the next three to five years. Optimism was
+        leaders expect meaningful APG progress within the next three to five years. Optimism was
         highest in Vietnam (80 per cent) compared to more cautious outlooks in the Philippines (55 per
         cent) and Malaysia (54 per cent).
       </p>
     </div>
 
     <blockquote class="quote-block" use:reveal>
-      Delays to the ASEAN Power Grid (APG) will cost the region $2.6b for every year the project slips
-      past its 2035 target, accumulating to nearly $14b over five years, according to Ember. Ember's
-      report, "The ASEAN Power Grid: Why Every Year of Delay Matters," published on 20 August, models
-      the economic, fuel, and emissions costs of postponing the regional grid, which links national
-      power systems across Southeast Asia.
+      “Rising geopolitical tensions will continue to expose fuel-importing economies to supply
+      disruptions and price volatility. The Asean Power Grid is more than an energy project, it is a
+      strategic investment in regional resilience, strengthening partnerships and deepening economic
+      integration through cross-border electricity trade. Political consensus is getting stronger and
+      capital is increasingly available. What remains is timely execution. Every year of delay costs
+      Asean around $2.6 billion, rising to more than $14 billion over five years. Delay also means
+      greater dependence on imported gas with around 55 billion cubic metres more by 2040, and more
+      than 71 million tonnes of additional CO₂ emissions. The longer Asean waits, the more it locks in
+      costly and less secure energy”
     </blockquote>
-    <p class="quote-attr" use:reveal>— Ember</p>
+    <p class="quote-attr" use:reveal>Lam Pham, energy analyst, Ember</p>
 
     <h3 use:reveal>Government efforts</h3>
     <div class="body-text" use:reveal>
@@ -171,6 +174,8 @@
         (78 per cent) and the Philippines (79 per cent).
       </p>
     </div>
+
+    <ArticlesRolodex />
 
     <div class="stat-grid" use:reveal>
       <div class="stat-card">

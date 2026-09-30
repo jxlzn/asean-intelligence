@@ -77,8 +77,9 @@
   }
 
   :global(.section--dark) .chart {
-    background: color-mix(in srgb, white 28%, var(--swatch--canopy));
-    box-shadow: none;
+    background: var(--swatch--white);
+    color: var(--swatch--dark-green);
+    box-shadow: 1px 1px 8px #00000014;
   }
 
   :global(.section--moss) .chart {
@@ -96,7 +97,7 @@
   }
 
   :global(.section--dark) .chart__title {
-    color: var(--swatch--white);
+    color: var(--swatch--canopy);
   }
 
   :global(.section--moss) .chart__title {
@@ -134,7 +135,7 @@
   }
 
   :global(.section--dark) .donut__hole {
-    background: color-mix(in srgb, white 28%, var(--swatch--canopy));
+    background: var(--swatch--white);
   }
 
   :global(.section--moss) .donut__hole {
@@ -149,7 +150,7 @@
   }
 
   :global(.section--dark) .donut__value {
-    color: var(--swatch--golden-gate-light-green);
+    color: var(--swatch--moss);
   }
 
   :global(.section--moss) .donut__value {
@@ -199,11 +200,15 @@
   }
 
   :global(.section--dark) .legend__value {
-    color: var(--swatch--golden-gate-light-green);
+    color: var(--swatch--moss);
   }
 
   :global(.section--moss) .legend__value {
     color: var(--swatch--canopy);
+  }
+
+  :global(.section--dark) .chart .caption {
+    color: var(--swatch--moss);
   }
 
   @keyframes pop {

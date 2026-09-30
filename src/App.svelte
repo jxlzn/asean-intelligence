@@ -7,6 +7,7 @@
   import Sustainability from './lib/components/Sustainability.svelte';
   import DigitalSurge from './lib/components/DigitalSurge.svelte';
   import WillInvest from './lib/components/WillInvest.svelte';
+  import Conclusion from './lib/components/Conclusion.svelte';
   import Methodology from './lib/components/Methodology.svelte';
   import Footer from './lib/components/Footer.svelte';
 
@@ -23,6 +24,7 @@
   <Sustainability />
   <DigitalSurge />
   <WillInvest />
+  <Conclusion />
   <Methodology />
 </main>
 

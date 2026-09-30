@@ -4,10 +4,10 @@
   import DonutChart from './DonutChart.svelte';
 
   const priorities = [
-    { label: 'Cost efficiency', value: 38, color: '#00b38c' },
-    { label: 'All three equally important', value: 27, color: '#79c8af' },
-    { label: 'Energy security & reliability', value: 26, color: '#a2d7c4' },
-    { label: 'Sustainability & decarbonisation', value: 9, color: '#cbe8dd' }
+    { label: 'Cost efficiency', value: 38, color: '#004b87' },
+    { label: 'All three equally important', value: 27, color: '#2da3d0' },
+    { label: 'Energy security & reliability', value: 26, color: '#90d1e9' },
+    { label: 'Sustainability & decarbonisation', value: 9, color: '#cceaf5' }
   ];
 
   const decarbonisationPace = [
@@ -44,10 +44,9 @@
 
     <div class="body-text" use:reveal>
       <p>
-        Southeast Asia stands at a strategic crossroad. As inflation erodes profitability, regional
-        enterprises are confronting a stark operational paradox: short-term margin preservation is
-        forcing near-term delays in net-zero targets even as energy cost pressure accelerates the
-        long-term imperative to transition to clean energy.
+        South-east Asia faces a stark dilemma: while the energy crisis highlights the long-term
+        imperative to transition to clean energy, regional enterprises also face short-term profit
+        pressure from rising costs. This tension is forcing near-term delays in decarbonisation plans.
       </p>
       <p>
         When evaluating immediate business priorities, cost efficiency leads decision-making for 38 per
@@ -58,8 +57,8 @@
       </p>
       <p>
         Meanwhile, national priorities reflect distinct market realities: Indonesia (49 per cent) and
-        Malaysia (47 per cent) are heavily cost-driven, whereas Singapore places its primary focus on
-        energy security (43 per cent).
+        Malaysia (47 per cent) businesses’ decisions are heavily cost-driven, whereas those in Singapore
+        primarily focus on energy security (43 per cent).
       </p>
     </div>
 
@@ -115,6 +114,17 @@
       />
     </div>
 
+    <blockquote class="quote-block" use:reveal>
+      “Much of Singapore’s business sector is concentrated in services and commercial activities, where
+      decarbonisation pressures can look different from those faced by industrial-heavy economies. For
+      example, manufacturing businesses in Indonesia and Vietnam are more exposed to international
+      supply chains, where meeting the carbon requirements of export markets such as Europe and the US
+      is nowadays becoming a condition for maintaining long-term market access and business continuity.
+      In that context, decarbonisation is not simply a sustainability objective, it is increasingly a
+      competitiveness matter.”
+    </blockquote>
+    <p class="quote-attr" use:reveal>Lam Pham, energy analyst, Ember</p>
+
     <div class="body-text" use:reveal>
       <p>
         Despite these short-term delays, commitment to the transition remains firm: 69 per cent of
@@ -139,8 +149,6 @@
         Overall, 76 per cent of organisations reported that ESG is fully embedded into their strategy
         and decision making (36 per cent) and key business functions (40 per cent). Integration rates
         were highest in Vietnam (83 per cent), Thailand (79 per cent), and Indonesia (78 per cent).
-        Large enterprises (78 per cent) were more likely than SMEs (71 per cent) to have ESG embedded
-        into their core business activities.
       </p>
       <p>
         Rather than pursuing broad carbon reduction targets, organisations are focusing on tangible,
@@ -155,14 +163,15 @@
       </li>
       <li>
         On-site renewables: One in five companies cited increasing the use of renewable energy
-        resources as one of their key actions.
+        resources at their premises as one of their key actions.
       </li>
     </ul>
     <div class="body-text" use:reveal>
       <p>
         When selecting clean energy solutions, companies indicated that they favour mature and scalable
-        technologies including solar power and on-site renewable generation (66 per cent) and renewable
-        energy sourcing via renewable energy certificates and power purchase agreements (63 per cent).
+        technologies including on-site renewable generation such as rooftop solar (66 per cent) and
+        renewable energy sourcing via renewable energy certificates and power purchase agreements (63
+        per cent).
       </p>
       <p>
         Thailand stood out for its higher interest in electrification of operations (60 per cent versus
@@ -176,7 +185,7 @@
       <p>
         The primary obstacle to clean energy adoption is practical rather than philosophical: 48 per
         cent of businesses cited limited availability of suitable clean energy options as the main
-        barrier, followed by Integration challenges with existing operational systems and difficulty
+        barrier, followed by integration challenges with existing operational systems and difficulty
         measuring business returns (38 per cent respectively).
       </p>
       <p>
@@ -215,13 +224,28 @@
         energy subsidies and cost support (52 per cent vs 43 per cent overall).
       </p>
       <p>
-        Access to capital: Green financing represents the single strongest enabler in the region.
-        Across Asean, 87 per cent of businesses reported improved access to green and sustainable
-        financing, with 41 per cent noting significant improvements. Satisfaction was highest in the
-        Philippines (95 per cent) and Vietnam (94 per cent), while Malaysia reported the lowest rate of
-        improved financing access at 78 per cent.
+        Access to capital: Momentum for green financing is building up. Across Asean, 87 per cent of
+        businesses reported improved access to green and sustainable financing, with 41 per cent noting
+        significant improvements. Satisfaction was highest in the Philippines (95 per cent) and Vietnam
+        (94 per cent), while Malaysia reported the lowest rate of improved financing access at 78 per
+        cent.
       </p>
     </div>
+
+    <blockquote class="quote-block" use:reveal>
+      “For years, the global energy conversation has been dominated by one phrase: energy transition.
+      But in many developing economies, the more immediate concern is whether households and businesses
+      have access to reliable and affordable energy in the first place. The reality is that global
+      energy demand continues to grow - driven by expanding electrification, AI, and rising living
+      standards. This means that what we are witnessing is not simply an energy transition, but an era
+      of energy addition. Because access to affordable power is important for millions of people,
+      countries should not have to choose between economic development and sustainability. A successful
+      transition depends on balancing affordability, sustainability, and security by responsibly
+      utilising oil and gas to stabilise economies while lower-carbon systems are built for the future.”
+    </blockquote>
+    <p class="quote-attr" use:reveal>
+      Yinson Production CEO Flemming Guiducci Grønnegaard
+    </p>
   </div>
 </section>
 

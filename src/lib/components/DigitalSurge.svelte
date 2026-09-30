@@ -11,9 +11,9 @@
   ];
 
   const energyDemandSplit = [
-    { label: 'Significant increase', value: 40, color: '#00b38c' },
-    { label: 'Moderate increase', value: 41, color: '#79c8af' },
-    { label: 'Other / lower impact', value: 19, color: '#cbe8dd' }
+    { label: 'Significant increase', value: 40, color: '#633517' },
+    { label: 'Moderate increase', value: 41, color: '#f7a84b' },
+    { label: 'Other / lower impact', value: 19, color: '#cceaf5' }
   ];
 
   const aiEnergyImpact = [
@@ -58,10 +58,22 @@
         a moderate increase in AI investment changes over the last year and a further 35 per cent
         reported a significant increase.
       </p>
+    </div>
+
+    <aside class="sidenote-panel body-text" use:reveal>
       <p>
-        However, this digital surge is placing substantial pressure on power requirements: 81 per cent
-        of businesses said they expect moderate (41 per cent) to significant (40 per cent) increase in
-        energy demand as adoption scales.
+        This tracks with the findings from our flagship survey Asean Intelligence 2026 which we launched
+        in May this year. In that study, we found that Indonesia is aggressively positioning itself as
+        South-east Asia’s artificial intelligence pacesetter, as businesses invest in multiple AI
+        capabilities.
+      </p>
+    </aside>
+
+    <div class="body-text" use:reveal>
+      <p>
+        The Powering Asean’s Future report found that this digital surge is placing substantial pressure
+        on power requirements: 81 per cent of businesses said they expect moderate (41 per cent) to
+        significant (40 per cent) increase in energy demand as adoption scales.
       </p>
       <p>
         Expectations are strongest in Indonesia (88 per cent), while Vietnam stands out for the
@@ -110,10 +122,9 @@
         cent) and infrastructure upgrade requirements (47 per cent) as energy demand increases.
       </p>
       <p>
-        To manage these energy implications, 52 per cent of enterprises are prioritising
-        energy-efficient AI solutions, 48 per cent are evaluating AI investments through an energy-cost
-        lens, and 46 per cent are setting targets to manage AI-related energy consumption (46 per
-        cent).
+        To manage these challenges, 52 per cent of enterprises are prioritising energy-efficient AI
+        solutions, 48 per cent are evaluating AI investments through an energy-cost lens, and 46 per
+        cent are setting targets to manage AI-related energy consumption (46 per cent).
       </p>
       <p>
         Indonesia businesses are particularly proactive, significantly more likely to prioritise
@@ -155,8 +166,8 @@
         Despite operational hurdles, enterprises remain overwhelmingly committed to digital
         transformation. Regionwide, nearly four in five (78 per cent) of businesses indicated they
         expect benefits from AI to outweigh associated energy requirements; Singapore (84 per cent),
-        Vietnam (83 per cent) and Thailand (81 per cent) led the pack in having high expectations for
-        AI.
+        Vietnam (83 per cent) and Thailand (81 per cent) led the pack in having positive expectations
+        for AI.
       </p>
       <p>
         The Philippines stood out as a notable exception with significantly fewer leaders believing the
@@ -176,6 +187,18 @@
 </section>
 
 <style>
+  .sidenote-panel {
+    margin: 40px 0;
+    padding: 28px;
+    background: var(--swatch--white);
+    border-radius: 24px;
+    box-shadow: 1px 1px 8px #00000014;
+  }
+
+  .sidenote-panel p {
+    margin: 0;
+  }
+
   .chart-pair {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -190,6 +213,12 @@
   @media (max-width: 900px) {
     .chart-pair {
       grid-template-columns: 1fr;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .sidenote-panel {
+      padding: 22px 18px 18px;
     }
   }
 </style>
