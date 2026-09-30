@@ -113,10 +113,15 @@ h2 {
 
 h3 {
   color: var(--default--heading);
+  margin-top: 3rem;
   margin-bottom: 1.5rem;
   font-size: clamp(1.6rem, 3vw, 2.67rem);
   font-weight: 800;
   line-height: 1.2;
+}
+
+.section-heading + h3 {
+  margin-top: 0;
 }
 
 h4 {

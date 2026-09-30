@@ -105,7 +105,7 @@ export const countryData = {
       moderate: 36,
       slight: 24,
       unchanged: 7,
-      decreased: 13
+      decreased: 12
     },
     negativeNet: 81,
     profit: {
@@ -157,7 +157,7 @@ export const countryData = {
       moderate: 32,
       slight: 16,
       unchanged: 16,
-      decreased: 16
+      decreased: 15
     },
     negativeNet: 73,
     profit: {
@@ -169,7 +169,7 @@ export const countryData = {
       notSure: 1
     },
     s9Takeaway:
-      'Thailand reports the lowest Increase (NET) at 68%, with 16% saying costs decreased and 16% unchanged.',
+      'Thailand reports the lowest Increase (NET) at 68%, with 15% saying costs decreased and 16% unchanged.',
     s10Takeaway:
       '73% report a negative profitability impact (NET); significant negative impact is highest in the region at 20%.'
   },
@@ -192,7 +192,7 @@ export const countryData = {
       minor: 14,
       none: 26,
       positive: 11,
-      notSure: 1
+      notSure: 2
     },
     s9Takeaway:
       'Vietnam tops the region with an Increase (NET) of 87%, most commonly at moderate levels of 10–29% (39%).',
