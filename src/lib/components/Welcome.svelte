@@ -19,7 +19,7 @@
             target="_blank"
             rel="noopener noreferrer">Asean Intelligence 2026</a
           >, The Business Times is proud to present our second regional report, Powering Asean’s
-          Future.
+          Future 2026.
         </p>
         <p>
           Our purpose in undertaking this research is simple: to look beyond the daily churn of

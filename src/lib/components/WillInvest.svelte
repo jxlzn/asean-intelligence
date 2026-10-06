@@ -8,7 +8,7 @@
   const infrastructureConfidence = [
     { label: 'Indonesia', value: 94, group: 'Leading the pack' },
     { label: 'Vietnam', value: 89, group: 'Leading the pack' },
-    { label: 'ASEAN average', value: 81, group: 'Regional benchmark' },
+    { label: 'ASEAN average', value: 80, group: 'Regional benchmark' },
     { label: 'Malaysia', value: 71, group: 'Lagging confidence' },
     { label: 'Philippines', value: 66, group: 'Lagging confidence' }
   ];
@@ -40,7 +40,7 @@
   <div class="container">
     <div class="section-heading" use:reveal>
       <span class="section-number">06</span>
-      <h2>Plugged in: Can the Asean Power Grid deliver?</h2>
+      <h2>Can the Asean Power Grid deliver?</h2>
     </div>
 
     <div class="body-text" use:reveal>
@@ -57,14 +57,16 @@
       <p>
         Four in five businesses (81 per cent) identify energy availability, affordability and
         sustainability as an important or critical factor in their regional investment decisions, with
-        enterprises in Thailand and Vietnam placing the greatest weight on energy readiness.
+        enterprises in Vietnam (96 per cent) and Thailand (92 per cent) placing the greatest weight on
+        energy readiness.
       </p>
       <p>
-        Overall, business leaders (81 per cent) are confident that Asean’s energy infrastructure can
-        support future growth over the next three to five years. However, perceptions vary across
-        borders - confidence is particularly high in Indonesia (94 per cent) and Vietnam (89 per cent)
-        while businesses in the Philippines (66 per cent) and Malaysia (71 per cent) are less
-        convinced.
+        Overall, businesses (80 per cent) are confident that Asean’s energy infrastructure can support
+        future growth over the next three to five years. However, perceptions vary across borders -
+        confidence is particularly high in Indonesia (94 per cent) and Vietnam (89 per cent) while
+        businesses in the Philippines (66 per cent) are less convinced. Large enterprises had a
+        significantly higher level of confidence compared with their SME counterparts (84 per cent vs 74
+        per cent).
       </p>
       <p>
         When assessing threats to energy security over the next three to five years, Asean enterprises
@@ -102,22 +104,19 @@
     <div class="body-text" use:reveal>
       <p>
         Across South-east Asia, corporate awareness of the push for regional energy trade is
-        exceptionally high: 9 in 10 (87 per cent) businesses said they are aware and monitoring
-        developments on the Asean Power Grid either very closely (49 per cent) or somewhat closely (38
-        per cent).
+        exceptionally high: 87 per cent of businesses said they are aware and monitoring developments
+        on the APG either very closely (49 per cent) or somewhat closely (38 per cent).
       </p>
       <p>
-        Engagement is strongest in Indonesia and Vietnam, where businesses are most likely to monitor
-        developments very closely (67 and 62 per cent respectively), whereas Malaysia is significantly
-        less likely than the regional average to actively track Asean Power Grid developments (75 per
-        cent vs 87 per cent). Large companies are more likely than SMEs (91 per cent vs 82 per cent) to
-        keep track of APG developments.
+        Engagement is strongest in Indonesia and Vietnam, where the highest proportions of businesses
+        are monitoring developments very closely (67 and 62 per cent respectively). A higher proportion
+        of large companies than SMEs (91 per cent vs 82 per cent) are keeping track of APG developments.
       </p>
       <p>
         Progress on regional grid connectivity serves as a major driver for capital deployment: 71 per
-        cent of businesses indicated that meaningful progress on the Asean Power Grid would increase
-        their willingness to invest and expand within the region, highlighting the potential economic
-        impact of stronger regional energy integration.
+        cent of businesses indicated that meaningful progress on the APG would increase their
+        willingness to invest and expand within the region, highlighting the potential economic impact
+        of stronger regional energy integration.
       </p>
     </div>
 
@@ -138,42 +137,33 @@
 
     <div class="body-text" use:reveal>
       <p>
-        This sentiment was strongest amongst Indonesian businesses (84 per cent) followed by The
+        This sentiment was strongest among Indonesian businesses (84 per cent) followed by the
         Philippines (70 per cent) and Malaysia (70 per cent). Large enterprises (77 per cent) also
         indicated they would increase their willingness to invest or expand in the region.
       </p>
       <p>
-        This suggests that improvements in regional energy connectivity would play an increasingly
-        important role in shaping future investment decisions.
-      </p>
-      <p>
-        Overall confidence in near-term grid progress remains positive - 65 per cent of business
-        leaders expect meaningful APG progress within the next three to five years. Optimism was
-        highest in Vietnam (80 per cent) compared to more cautious outlooks in the Philippines (55 per
-        cent) and Malaysia (54 per cent).
+        Overall confidence in near-term grid progress remains positive - 65 per cent of businesses
+        expect meaningful APG progress within the next three to five years. Optimism was highest in
+        Vietnam (80 per cent) compared to more cautious outlooks in the Philippines and Malaysia (54 per
+        cent each).
       </p>
     </div>
 
     <blockquote class="quote-block" use:reveal>
-      “Rising geopolitical tensions will continue to expose fuel-importing economies to supply
-      disruptions and price volatility. The Asean Power Grid is more than an energy project, it is a
-      strategic investment in regional resilience, strengthening partnerships and deepening economic
-      integration through cross-border electricity trade. Political consensus is getting stronger and
-      capital is increasingly available. What remains is timely execution. Every year of delay costs
-      Asean around $2.6 billion, rising to more than $14 billion over five years. Delay also means
-      greater dependence on imported gas with around 55 billion cubic metres more by 2040, and more
-      than 71 million tonnes of additional CO₂ emissions. The longer Asean waits, the more it locks in
-      costly and less secure energy”
+      “Every year of delay (on the APG) costs Asean around US$2.6 billion, rising to more than US$14
+      billion over five years. Delay also means greater dependence on imported gas with around 55
+      billion cubic metres more by 2040, and more than 71 million tonnes of additional CO₂ emissions.
+      The longer Asean waits, the more it locks in costly and less secure energy”
     </blockquote>
     <p class="quote-attr" use:reveal>Lam Pham, energy analyst, Ember</p>
 
     <h3 use:reveal>Government efforts</h3>
     <div class="body-text" use:reveal>
       <p>
-        Government efforts to manage energy-related challenges are generally viewed favourably—83 per
+        Government efforts to manage energy-related challenges are generally viewed favourably: 83 per
         cent of businesses rate their government's energy management efforts as effective, with
-        satisfaction highest in Vietnam (91 per cent) and Singapore (86 per cent), and lower in Malaysia
-        (78 per cent) and the Philippines (79 per cent).
+        satisfaction highest in Vietnam (91 per cent) and Singapore (86 per cent), and lowest in Malaysia
+        (78 per cent).
       </p>
     </div>
 

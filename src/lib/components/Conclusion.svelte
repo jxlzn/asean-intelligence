@@ -14,15 +14,14 @@
     <div class="body-text" use:reveal>
       <p>
         Looking ahead, Asean’s energy and digital trajectories are inextricably linked. As businesses
-        in the region navigate elevated energy cost pressures and shrinking profit margins with
-        long-term digital ambitions, the region stands at a critical juncture where energy resilience
-        and technological innovation must be actively planned for.
+        in the region navigate elevated energy cost pressures and the impact on profitability, energy
+        resilience and technological innovation must be actively planned for.
       </p>
       <p>
-        At the heart of this future is the Asean Power Grid, which serves as a vital infrastructure
-        catalyst. With high corporate awareness and strong backing from regional leaders, meaningful
-        progress on regional grid connectivity will accelerate capital deployment in the region,
-        highlighting the potential economic impact of stronger regional energy integration.
+        At the heart of this future is the APG, which serves as a vital infrastructure catalyst. With
+        high corporate awareness and strong backing from regional leaders, meaningful progress on
+        regional grid connectivity will accelerate capital deployment in the region, highlighting the
+        potential economic impact of stronger regional energy integration.
       </p>
       <p>
         On the part of organisations, those that embed energy resilience into investment and

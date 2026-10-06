@@ -6,10 +6,9 @@
     <ul class="credits-list">
       <li>Mindy Tan <a href="mailto:tanmindy@sph.com.sg">tanmindy@sph.com.sg</a></li>
       <li>Lilian Ang <a href="mailto:liliang@sph.com.sg">liliang@sph.com.sg</a></li>
+      <li>Sharanya Pillai <a href="mailto:hspillai@sph.com.sg">hspillai@sph.com.sg</a></li>
       <li>Ellen Lee <a href="mailto:leekhe@sph.com.sg">leekhe@sph.com.sg</a></li>
       <li>Liu Jiehan <a href="mailto:liujh@sph.com.sg">liujh@sph.com.sg</a></li>
-      <li>Sharanya Pillai <a href="mailto:hspillai@sph.com.sg">hspillai@sph.com.sg</a></li>
-      <li>Lee Kim Siang <a href="mailto:kimsiang@sph.com.sg">kimsiang@sph.com.sg</a></li>
     </ul>
 
     <p class="note">
@@ -29,9 +28,10 @@
     </div>
 
     <div class="credits-block">
-      <h4>Additional reporting by:</h4>
+      <h4>With support from:</h4>
       <ul class="credits-list">
         <li>Jamille Tran</li>
+        <li>Lee Kim Siang</li>
       </ul>
     </div>
 

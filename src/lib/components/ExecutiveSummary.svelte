@@ -30,17 +30,28 @@
       </h4>
       <ul class="bullet-list">
         <li>
-          79 per cent of Asean enterprises experienced higher energy costs this year, resulting in 76
-          per cent reporting shrinking profit margins.
+          79 per cent of Asean enterprises experienced higher energy costs since the start of this
+          year, and 76 per cent reported that this is eroding their profitability.
         </li>
         <li>
-          This was most severely felt in Malaysia at 84 per cent, and Singapore and Indonesia at 81 per
-          cent.
+          The hit to profits was most severely felt in Malaysia (84 per cent), followed by Singapore
+          and Indonesia (81 per cent respectively).
         </li>
         <li>
-          Vietnam presented a striking exception: While 87 per cent (the highest regionally) reported
-          elevated energy costs, 61 per cent reported that the rising energy costs have had a moderate
-          to significant impact on their profitability (compared with 76 per cent regionally).
+          Vietnam presented a striking exception: Only 61 per cent saw a hit to their profitability,
+          even though 87 per cent of Vietnam respondents faced higher energy costs.
+        </li>
+        <li>
+          Rather than relying on short-term cost recovery measures, businesses are leaning into
+          productivity-led solutions such as investing in energy efficiency (61 per cent) and
+          accelerating automation and AI adoption (54 per cent), or delaying non-essential investments
+          (44 per cent).
+        </li>
+        <li>
+          Across the region, confidence in energy resilience is high, with 85 per cent of businesses
+          reporting they are moderately to very well prepared. Preparedness is particularly strong in
+          Thailand (94 per cent) and Indonesia (90 per cent), while businesses in Malaysia (75 per
+          cent) and Singapore (81 per cent) report comparatively lower levels of preparedness.
         </li>
       </ul>
     </div>
@@ -51,14 +62,23 @@
       </h4>
       <ul class="bullet-list">
         <li>
-          Driven by immediate margin pressures, 53 per cent of businesses have delayed or deprioritised
-          decarbonisation plans.
+          Cost efficiency leads decision-making for 38 per cent of organisations, followed by energy
+          security and reliability (26 per cent). Pure sustainability and decarbonisation goals were
+          identified as the primary driver by only 9 per cent of businesses.
         </li>
         <li>
-          Singapore led the region in reporting significant delays (29 per cent), whereas Indonesia (39
-          per cent) and Vietnam (37 per cent) reported that they are accelerating their plans.
+          Driven by immediate margin pressures, 53 per cent of Asean businesses have delayed or
+          deprioritised decarbonisation plans.
         </li>
-        <li>ESG remains firmly embedded in core operations (76 per cent).</li>
+        <li>
+          Singapore led the region with the highest proportion of businesses reporting significant
+          delays (29 per cent) compared with the regional average of 20 per cent.
+        </li>
+        <li>
+          On the flipside, some Asean businesses are still accelerating their sustainability plans.
+          This is especially in Indonesia (39 per cent) and Vietnam (37 per cent).
+        </li>
+        <li>ESG remains firmly embedded as a strategic priority for 76 per cent of Asean businesses.</li>
         <li>
           Green financing serves as the single strongest enabler in the region, with 87 per cent of
           businesses reporting improved access to sustainable capital.
@@ -76,12 +96,17 @@
           past 12 months.
         </li>
         <li>
-          81 per cent expect AI scaling to drive moderate-to-significant increases in energy demand,
-          raising concerns over rising operating costs (46 per cent) and infrastructure upgrade
-          requirements (39 per cent).
+          81 per cent expect the scaling up of AI use to drive moderate-to-significant increases in
+          energy demand, raising concerns over rising electricity or operating costs (46 per cent) and
+          infrastructure upgrade requirements (39 per cent).
         </li>
         <li>
-          Despite power constraints, 78 per cent of leaders remain convinced that the commercial returns
+          To manage these challenges, 52 per cent of Asean enterprises are prioritising energy-efficient
+          AI solutions, 48 per cent are evaluating AI investments through an energy-cost lens, and 46
+          per cent are setting targets to manage AI-related energy consumption.
+        </li>
+        <li>
+          Despite these concerns, 78 per cent of leaders remain convinced that the commercial benefits
           of AI outweigh its energy burden.
         </li>
       </ul>
@@ -89,17 +114,26 @@
 
     <div class="takeaway" use:reveal>
       <h4>
-        <a href="#plugged-in">Plugged in: Can the Asean Power Grid deliver?</a>
+        <a href="#plugged-in">Can the Asean Power Grid deliver?</a>
       </h4>
       <ul class="bullet-list">
         <li>
-          81 per cent of business leaders state that energy availability, reliability, and affordability
+          81 per cent of businesses state that energy availability, reliability, and affordability
           directly influence their regional investment and expansion decisions.
         </li>
         <li>
-          Awareness of the Asean Power Grid (APG) is exceptionally high (87 per cent); 71 per cent of
-          respondents indicated that meaningful progress on the regional grid would directly increase
+          Awareness of the Asean Power Grid (APG) – the effort to link up the region’s power systems
+          for cross-border electricity trade – is exceptionally high, with 87 per cent of respondents
+          monitoring it very or somewhat closely.
+        </li>
+        <li>
+          Progress on regional grid connectivity serves as a major driver for capital deployment: 71
+          per cent indicated that meaningful progress on the regional grid would directly increase
           their willingness to invest in Asean.
+        </li>
+        <li>
+          Confidence in near-term grid progress remains positive - 65 per cent of businesses expect
+          meaningful APG progress within the next three to five years.
         </li>
       </ul>
     </div>

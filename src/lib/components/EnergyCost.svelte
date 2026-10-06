@@ -14,7 +14,7 @@
 
   const copingStrategies = [
     { label: 'Invest in energy-efficient technologies', value: 66 },
-    { label: 'Accelerate automation and digitisation', value: 62 },
+    { label: 'Accelerate automation and digitalisation', value: 62 },
     { label: 'Restructure energy-intensive activities', value: 52 },
     { label: 'Review or delay investment plans', value: 43 },
     { label: 'Relocate to lower-cost markets', value: 37 }
@@ -38,17 +38,24 @@
       <p>
         Disruptions in the Strait of Hormuz - a point controlling about 35 per cent of global seaborne
         crude oil trade - did not remain an abstract geopolitical headline for long. For nearly eight in
-        10 Asean enterprise leaders, the global shock materialised directly on their monthly utility
-        statements and is starting to make its impact felt on their bottom lines.
+        10 Asean businesses, the global shock materialised directly on their monthly utility statements
+        and is starting to make its impact felt on their bottom lines.
       </p>
       <p>
-        Seventy nine per cent of businesses surveyed across the region reported higher energy bills –
-        associated with electricity and fuel – this year, with companies in Vietnam (87 per cent),
-        Malaysia (83 per cent) and Singapore (82 per cent) feeling it the most.
+        Seventy-nine per cent of businesses surveyed across the region reported higher energy bills this
+        year, with companies in Vietnam (87 per cent), Malaysia (83 per cent) and Singapore (82 per
+        cent) feeling it the most.
       </p>
-      <p>Thailand reported the lowest incidence of increase at 69 per cent.</p>
       <p>
-        Overall, the majority reported that the increase was in the moderate range (34 per cent).
+        Thailand had the lowest proportion of businesses reporting a rise in energy costs, at 69 per
+        cent.
+      </p>
+      <p>
+        Across Asean, about a third (34 per cent) reported that the increase was in the moderate range,
+        while 22 per cent said that the rise in energy costs was significant or very significant. A
+        very significant increase is defined as more than 50 per cent, while a significant increase
+        ranges from 30 to 50 per cent, and a moderate increase from 10 to 29 per cent. A slight increase
+        in cost is measured as any increase less than 10 per cent.
       </p>
     </div>
 
@@ -72,7 +79,7 @@
       <div class="stat-card">
         <div class="stat-value">37%</div>
         <div class="stat-label">
-          of Vietnamese firms reported zero or positive profit impact — the regional exception
+          of Vietnamese firms reported profitability had not been impacted or was positively impacted
         </div>
       </div>
     </div>
@@ -86,10 +93,10 @@
         respectively) hurting the most.
       </p>
       <p>
-        Vietnam presents a striking exception. While Vietnamese businesses topped the scales when it
-        came to reporting elevated energy costs (87 per cent indicated costs had increased), their
-        bottom lines remained the most resilient in the region — 37 per cent reported zero or even
-        positive impact on their profit margins. Overall, 61 per cent reported that the rising costs
+        Vietnam presents a striking exception. Vietnamese businesses topped the scales when it came to
+        reporting elevated energy costs (87 per cent indicated costs had increased). Yet, their bottom
+        lines remained the most resilient in the region — 37 per cent reported that profitability had
+        not been impacted or was positively impacted. Just 61 per cent reported that the rising costs
         have had a negative impact on their profitability, compared with the regional average of 76 per
         cent.
       </p>
@@ -117,10 +124,7 @@
   <div class="container">
     <h3 use:reveal>What are companies doing to offset rising costs?</h3>
     <div class="body-text" use:reveal>
-      <p>
-        It has been over half a year since energy prices have risen and businesses are not standing
-        still.
-      </p>
+      <p>It has been over half a year since energy prices have risen.</p>
       <p>Energy cost pressures are most acute across three core operational areas:</p>
     </div>
 
@@ -145,15 +149,15 @@
     <div class="body-text" use:reveal>
       <p>
         Rather than relying on short-term cost recovery measures, the 514 businesses we surveyed are
-        leaning into productivity-led solutions such as investing in energy efficiency (61 per cent) and
-        accelerating automation and AI adoption (54 per cent), veering away from relocating operations
-        (37 per cent) or delaying long-term investments (44 per cent).
+        leaning into productivity-led solutions such as investing in energy efficiency (61 per cent),
+        accelerating automation and AI adoption (54 per cent), and delaying non-essential investments
+        (44 per cent).
       </p>
       <p>
         If energy costs remain elevated in the long run, most organisations are choosing to invest in
-        energy efficient technologies (66 per cent). Many also plan to accelerate automation and
-        digitisation (62 per cent); and reduce or restructure energy-intensive business activities (52
-        per cent).
+        energy efficient technologies, equipment or facilities (66 per cent). Many also plan to
+        accelerate automation and digitalisation (62 per cent), and reduce or restructure
+        energy-intensive business activities (52 per cent).
       </p>
       <p>
         These options take precedence over reviewing or delaying investment and expansion plans (43 per
@@ -185,18 +189,18 @@
     <h3 use:reveal>Building operational resilience</h3>
     <div class="body-text" use:reveal>
       <p>
-        Across the region, confidence in energy disruption preparedness is high, with 85 per cent of
-        businesses reporting they are moderately to very well prepared. Preparedness is particularly
-        strong in Thailand (94 per cent) and Indonesia (90 per cent), while businesses in Malaysia (75
-        per cent) and Singapore (81 per cent) report comparatively lower levels of preparedness.
+        Across the region, confidence in energy resilience is high, with 85 per cent of businesses
+        reporting they are moderately to very well prepared. Preparedness is particularly strong in
+        Thailand (94 per cent) and Indonesia (90 per cent), while businesses in Malaysia (75 per cent)
+        and Singapore (81 per cent) report comparatively lower levels of preparedness.
       </p>
-      <p>To shield their operations from potential disruptions, companies are relying on a mix of continuity measures:</p>
+      <p>
+        To shield their operations from potential disruptions, companies are relying on a mix of
+        continuity measures, from securing alternative energy sources or suppliers (58 per cent), to
+        implementing energy efficiency initiatives (56 per cent) and maintaining backup energy sources
+        (54 per cent).
+      </p>
     </div>
-    <ul class="bullet-list" use:reveal>
-      <li>Securing alternative energy sources or suppliers (58 per cent)</li>
-      <li>Implementing energy efficiency initiatives (56 per cent)</li>
-      <li>Maintaining backup energy sources (54 per cent)</li>
-    </ul>
 
     <div use:reveal>
       <BarChart

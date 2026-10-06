@@ -34,7 +34,7 @@
   const policyDemands = [
     { label: 'Greater renewable access & procurement', value: 55 },
     { label: 'Tax incentives or grants', value: 48 },
-    { label: 'Investment in infrastructure', value: 43 }
+    { label: 'Investment in energy infrastructure', value: 44 }
   ];
 </script>
 
@@ -59,9 +59,9 @@
         important.
       </p>
       <p>
-        Meanwhile, national priorities reflect distinct market realities: Indonesia (49 per cent) and
-        Malaysia (47 per cent) businesses’ decisions are heavily cost-driven, whereas those in Singapore
-        primarily focus on energy security (43 per cent).
+        Meanwhile, each market has distinct priorities: Indonesia (49 per cent) and Malaysia (47 per
+        cent) businesses’ decisions are heavily cost-driven, whereas those in Singapore primarily focus
+        on energy security (43 per cent).
       </p>
     </div>
 
@@ -93,14 +93,16 @@
     <h3 use:reveal>The regional divergence: Pausing vs accelerating</h3>
     <div class="body-text" use:reveal>
       <p>
-        This has created a temporary friction point for corporate climate ambitions. Regionally, more
-        than half (53 per cent) of businesses reported that their decarbonisation plans have been
-        delayed or deprioritised compared with the 26 per cent who have accelerated their efforts.
+        The challenging energy landscape has created a friction point for corporate climate ambitions.
+        Regionally, more than half (53 per cent) of businesses reported that their decarbonisation plans
+        have been delayed or deprioritised compared with the 26 per cent who have accelerated their
+        efforts.
       </p>
       <p>
-        Singapore leads the region in reporting significant delays or deprioritisation (29 per cent,
-        well above the regional average of 20 per cent). Conversely, businesses in Indonesia (39 per
-        cent) and Vietnam (37 per cent) are actively accelerating their sustainability plans.
+        Singapore leads the region in reporting significant delays or deprioritisation at 29 per cent,
+        well above the regional average of 20 per cent. Conversely, a sizable proportion of businesses
+        in Indonesia (39 per cent) and Vietnam (37 per cent) are actively accelerating their
+        sustainability plans.
       </p>
     </div>
 
@@ -129,43 +131,38 @@
 
     <blockquote class="quote-block" use:reveal>
       “Much of Singapore’s business sector is concentrated in services and commercial activities, where
-      decarbonisation pressures can look different from those faced by industrial-heavy economies. For
-      example, manufacturing businesses in Indonesia and Vietnam are more exposed to international
-      supply chains, where meeting the carbon requirements of export markets such as Europe and the US
-      is nowadays becoming a condition for maintaining long-term market access and business continuity.
-      In that context, decarbonisation is not simply a sustainability objective, it is increasingly a
-      competitiveness matter.”
+      decarbonisation pressures can look different. Manufacturing businesses in Indonesia and Vietnam
+      are more exposed to international supply chains, where meeting the carbon requirements of export
+      markets such as Europe and the US is becoming a condition for maintaining long-term market access
+      and business continuity.”
     </blockquote>
     <p class="quote-attr" use:reveal>Lam Pham, energy analyst, Ember</p>
 
     <div class="body-text" use:reveal>
       <p>
-        Despite these short-term delays, commitment to the transition remains firm: 69 per cent of
-        respondents project that their energy mix will become greener over the next three to five
-        years.
+        Despite short-term delays, commitment to the transition remains firm: 69 per cent of respondents
+        project that their energy mix will become greener over the next three to five years.
       </p>
       <p>
-        However, conventional energy sources remain essential for 28 per cent of businesses. This is
-        particularly so in Vietnam (41 per cent) and among SMEs (33 per cent). Businesses in Singapore
-        (61 per cent) and Malaysia (62 per cent) are the most likely to expect a gradual transition
-        toward cleaner energy.
+        Thailand led the pack in expecting a significant shift toward cleaner energy sources (30 per
+        cent), followed by Indonesia (26 per cent), well above the regional average of 22 per cent.
+        Large enterprises tracked the regional average, at 23 per cent. Expectations of a gradual
+        transition to clean energy are highest among businesses in Malaysia (62 per cent) and Singapore
+        (61 per cent).
+      </p>
+      <p>
+        However, conventional energy sources, including fossil fuels, remain essential for 28 per cent
+        of businesses. This is particularly so in Vietnam (41 per cent) and among SMEs (33 per cent).
       </p>
     </div>
 
-    <h3 use:reveal>Practical action: ESG as operational efficiency</h3>
+    <h3 use:reveal>ESG as operational efficiency</h3>
     <div class="body-text" use:reveal>
       <p>
-        While high level decarbonisation goals may have been delayed, ESG principles remain firmly
-        integrated into core operations.
-      </p>
-      <p>
-        Overall, 76 per cent of organisations reported that ESG is fully embedded into their strategy
-        and decision making (36 per cent) and key business functions (40 per cent). Integration rates
-        were highest in Vietnam (83 per cent), Thailand (79 per cent), and Indonesia (78 per cent).
-      </p>
-      <p>
-        Rather than pursuing broad carbon reduction targets, organisations are focusing on tangible,
-        cost-reducing sustainability actions.
+        Overall, 76 per cent of organisations reported that ESG is embedded into their strategy and
+        decision making: 36 per cent do so fully, while another 40 per cent say that ESG is integrated
+        into key business functions. Integration rates were highest in Vietnam (83 per cent), Thailand
+        (79 per cent), and Indonesia (78 per cent).
       </p>
       <p>
         Over the next three to five years, companies are focused on improving energy efficiency and
@@ -191,7 +188,7 @@
         The primary obstacle to clean energy adoption is practical rather than philosophical: 48 per
         cent of businesses cited limited availability of suitable clean energy options as the main
         barrier, followed by integration challenges with existing operational systems and difficulty
-        measuring business returns (38 per cent respectively).
+        measuring business returns (38 per cent each).
       </p>
       <p>
         Market-specific barriers differ significantly: Businesses from the Philippines identified
@@ -220,7 +217,8 @@
       <p>
         Policy demands: 55 per cent of businesses highlighted greater access to renewable energy
         sources and procurement options as their top policy requirement, outpacing requests for tax
-        incentives or grants (48 per cent) and investment in infrastructure (43 per cent).
+        incentives or grants (48 per cent) and investment in energy infrastructure and grid reliability
+        (44 per cent).
       </p>
       <p>
         Market-specific policy demands reflect local priorities: Respondents from Thailand prioritise
@@ -229,22 +227,16 @@
         energy subsidies and cost support (52 per cent vs 43 per cent overall).
       </p>
       <p>
-        Access to capital: Momentum for green financing is building up. Across Asean, 87 per cent of
+        Access to capital: Momentum is building for green financing. Across Asean, 87 per cent of
         businesses reported improved access to green and sustainable financing, with 41 per cent noting
         significant improvements. Satisfaction was highest in the Philippines (95 per cent) and Vietnam
-        (94 per cent), while Malaysia reported the lowest rate of improved financing access at 78 per
-        cent.
+        (94 per cent), while Malaysia had the lowest proportion of businesses (78 per cent) reporting
+        improved financing access.
       </p>
     </div>
 
     <blockquote class="quote-block" use:reveal>
-      “For years, the global energy conversation has been dominated by one phrase: energy transition.
-      But in many developing economies, the more immediate concern is whether households and businesses
-      have access to reliable and affordable energy in the first place. The reality is that global
-      energy demand continues to grow - driven by expanding electrification, AI, and rising living
-      standards. This means that what we are witnessing is not simply an energy transition, but an era
-      of energy addition. Because access to affordable power is important for millions of people,
-      countries should not have to choose between economic development and sustainability. A successful
+      “Countries should not have to choose between economic development and sustainability. A successful
       transition depends on balancing affordability, sustainability, and security by responsibly
       utilising oil and gas to stabilise economies while lower-carbon systems are built for the future.”
     </blockquote>
