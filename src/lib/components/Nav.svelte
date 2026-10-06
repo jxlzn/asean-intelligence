@@ -321,4 +321,31 @@
       padding: 12px 14px;
     }
   }
+
+  @media (max-height: 700px) {
+    .nav-wrap {
+      top: 10px;
+    }
+
+    .nav-wrap.scrolled {
+      top: 8px;
+    }
+
+    .navbar {
+      padding: 8px 10px 8px 14px;
+    }
+
+    .brand {
+      gap: 4px;
+    }
+
+    .brand-logo--desktop {
+      width: min(180px, 38vw);
+      margin-top: 1px;
+    }
+
+    .brand-text {
+      font-size: 0.78rem;
+    }
+  }
 </style>
