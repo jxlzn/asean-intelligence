@@ -15,7 +15,7 @@
       title: 'How deeply have South-east Asian governments had to dig in this oil crisis?',
       summary:
         'Subsidies and tax cuts may stem the bleed, but the region’s budgets are coming under strain as governments cushion rising fuel costs.',
-      meta: '7 Apr 2026',
+      meta: 'Evan See · 7 Apr 2026',
       href: 'https://www.businesstimes.com.sg/international/asean/how-deeply-have-south-east-asian-governments-had-dig-oil-crisis'
     },
     {
@@ -32,7 +32,7 @@
         'Singapore’s energy and chemicals sector in focus as Middle East conflict escalates',
       summary:
         'The sector’s green pivot could help it be less vulnerable to oil and gas disruptions in the long term.',
-      meta: '10 Mar 2026',
+      meta: 'Sharanya Pillai · 10 Mar 2026',
       href: 'https://www.businesstimes.com.sg/companies-markets/charts-singapores-energy-and-chemicals-sector-focus-middle-east-conflict-escalates'
     },
     {
@@ -40,7 +40,7 @@
       title: 'Carbon tax: Where Singapore stands in a world divided on price',
       summary:
         'Asia Unpacked looks at how Singapore’s carbon tax compares with limited and uneven pricing progress across the region.',
-      meta: 'Carbon pricing 2026',
+      meta: 'Sharanya Pillai and Kimberly Wee · Carbon pricing 2026',
       href: 'https://graphics.businesstimes.com.sg/specials/carbon-pricing-2026/index.html'
     }
   ];

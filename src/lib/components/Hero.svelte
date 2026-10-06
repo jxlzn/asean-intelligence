@@ -24,7 +24,7 @@
       Asean’s<br />
       Future 2026
     </h1>
-    <p class="hero__subheading">How energy security, sustainability and AI are reshaping business decisions across Asean</p>
+    <p class="hero__subheading">How energy security, sustainability and AI are reshaping business decisions across the region</p>
   </div>
 
 </section>

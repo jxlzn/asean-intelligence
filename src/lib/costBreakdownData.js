@@ -16,7 +16,7 @@ export const countryOptions = [
  */
 export const countryData = {
   ALL: {
-    title: 'All ASEAN Markets (Total Benchmark)',
+    title: 'All ASEAN Markets',
     sample: 'Total N=514',
     // B1
     increaseNet: 79,
@@ -36,7 +36,7 @@ export const countryData = {
       minor: 32,
       none: 13,
       positive: 11,
-      notSure: 1
+      notSure: 0
     },
     s9Takeaway:
       'Overall, 79% of ASEAN firms report higher energy costs, most commonly at moderate levels of 10–29% (34%).',

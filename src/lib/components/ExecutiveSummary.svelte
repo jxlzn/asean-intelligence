@@ -72,7 +72,7 @@
       </h4>
       <ul class="bullet-list">
         <li>
-          Driven by productivity goals, 63 per cent of enterprises increased AI investments over the
+          Driven by productivity goals, 62 per cent of enterprises increased AI investments over the
           past 12 months.
         </li>
         <li>

@@ -98,7 +98,6 @@
       <p class="banner__eyebrow">Selected market</p>
       <p class="banner__title">{data.title}</p>
     </div>
-    <span class="badge">Sample size: {data.sample}</span>
   </div>
 
   <div class="kpi-grid">
@@ -304,17 +303,6 @@
     margin: 0;
     font-size: 1.25rem;
     font-weight: 800;
-  }
-
-  .badge {
-    display: inline-flex;
-    align-items: center;
-    padding: 8px 14px;
-    border-radius: 999px;
-    background: rgba(255, 255, 255, 0.12);
-    border: 1px solid rgba(255, 255, 255, 0.18);
-    font-size: 0.85rem;
-    font-weight: 600;
   }
 
   .kpi-grid {

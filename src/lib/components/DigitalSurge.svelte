@@ -4,9 +4,8 @@
   import DonutChart from './DonutChart.svelte';
 
   const aiInvestment = [
-    { label: 'Indonesia', value: 85 },
+    { label: 'ASEAN average', value: 62 },
     { label: 'Large enterprises', value: 69 },
-    { label: 'ASEAN average', value: 63 },
     { label: 'SMEs', value: 53 }
   ];
 
@@ -14,14 +13,6 @@
     { label: 'Significant increase', value: 40, color: '#633517' },
     { label: 'Moderate increase', value: 41, color: '#f7a84b' },
     { label: 'Other / lower impact', value: 19, color: '#cceaf5' }
-  ];
-
-  const aiEnergyImpact = [
-    { label: 'Indonesia — expect increase', value: 88 },
-    { label: 'ASEAN — expect increase', value: 81 },
-    { label: 'Vietnam — significant increase', value: 58 },
-    { label: 'Singapore — moderate only', value: 54 },
-    { label: 'Singapore — significant impact', value: 17 }
   ];
 
   const manageAiEnergy = [
@@ -34,8 +25,8 @@
     { label: 'Singapore', value: 84 },
     { label: 'Vietnam', value: 83 },
     { label: 'Thailand', value: 81 },
-    { label: 'ASEAN average', value: 78 },
-    { label: 'Philippines', value: 64 }
+    { label: 'Indonesia', value: 80 },
+    { label: 'ASEAN average', value: 78 }
   ];
 </script>
 
@@ -48,7 +39,7 @@
 
     <div class="body-text" use:reveal>
       <p>
-        Driven by the search for productivity gains, 63 per cent of businesses reported that they
+        Driven by the search for productivity gains, 62 per cent of businesses reported that they
         increased their investment in AI or data-driven technologies over the past 12 months. Large
         enterprises led this trend, with 69 per cent raising AI investments compared to 53 per cent of
         SMEs.
@@ -62,10 +53,16 @@
 
     <aside class="sidenote-panel body-text" use:reveal>
       <p>
-        This tracks with the findings from our flagship survey Asean Intelligence 2026 which we launched
-        in May this year. In that study, we found that Indonesia is aggressively positioning itself as
-        South-east Asia’s artificial intelligence pacesetter, as businesses invest in multiple AI
-        capabilities.
+        This tracks with the findings from our flagship survey
+        <a
+          class="text-link"
+          href="https://www.businesstimes.com.sg/keywords/asean-intelligence-2026"
+          target="_blank"
+          rel="noopener noreferrer">Asean Intelligence 2026</a
+        >
+        which we launched in May this year. In that study, we found that Indonesia is aggressively
+        positioning itself as South-east Asia’s artificial intelligence pacesetter, as businesses
+        invest in multiple AI capabilities.
       </p>
     </aside>
 
@@ -86,11 +83,6 @@
     </div>
 
     <div class="chart-pair" use:reveal>
-      <BarChart
-        caption="AI investment"
-        title="Share raising AI or data-driven investment"
-        items={aiInvestment}
-      />
       <DonutChart
         caption="Regional energy outlook"
         title="Expected AI-driven energy demand growth"
@@ -98,13 +90,10 @@
         centerValue="81%"
         centerLabel="Expect rise"
       />
-    </div>
-
-    <div use:reveal>
       <BarChart
-        caption="Perceived AI energy impact by market"
+        caption="AI investment"
         title="Where energy pressure from AI is felt most strongly"
-        items={aiEnergyImpact}
+        items={aiInvestment}
       />
     </div>
 
@@ -147,7 +136,7 @@
 
     <div class="stat-grid" use:reveal>
       <div class="stat-card">
-        <div class="stat-value">63%</div>
+        <div class="stat-value">62%</div>
         <div class="stat-label">increased AI or data-driven investment in the past 12 months</div>
       </div>
       <div class="stat-card">

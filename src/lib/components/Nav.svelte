@@ -51,12 +51,22 @@
 
 <header class="nav-wrap" class:scrolled>
   <nav class="navbar" aria-label="Primary">
-    <a class="brand" href="#top" onclick={close}>
-      <span class="brand-mark" aria-hidden="true">BT</span>
-      <span class="brand-text">
-        <strong>The Business Times</strong>
-        <em>Powering Asean’s Future</em>
-      </span>
+    <a class="brand" href="#top" onclick={close} aria-label="The Business Times — Powering Asean’s Future">
+      <img
+        class="brand-logo brand-logo--desktop"
+        src="https://www.businesstimes.com.sg/bt_files/interactives/assets/btLogo.png"
+        alt=""
+        width="248"
+        height="23"
+      />
+      <img
+        class="brand-logo brand-logo--mobile"
+        src="https://www.businesstimes.com.sg/bt_files/interactives/assets/btMobileLogo.png"
+        alt=""
+        width="42"
+        height="29"
+      />
+      <span class="brand-text">Powering Asean’s Future</span>
     </a>
 
     <button
@@ -134,51 +144,45 @@
 
   .brand {
     display: flex;
-    align-items: center;
-    gap: 12px;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 8px;
     min-width: 0;
     color: var(--swatch--canopy);
   }
 
-  .brand-mark {
+  .brand-logo {
     flex: none;
+    display: block;
+    height: auto;
+    object-fit: contain;
+    filter: brightness(0);
+  }
+
+  .brand-logo--desktop {
+    width: min(220px, 42vw);
+    height: auto;
+    margin-top: 3px;
+  }
+
+  .brand-logo--mobile {
+    display: none;
     width: 42px;
-    height: 42px;
-    border-radius: 50%;
-    background: var(--swatch--canopy);
-    color: white;
-    display: grid;
-    place-items: center;
-    font-weight: 800;
-    font-size: 0.85rem;
-    letter-spacing: 0.02em;
+    height: auto;
   }
 
   .brand-text {
-    display: flex;
-    flex-direction: column;
-    min-width: 0;
-    line-height: 1.15;
-  }
-
-  .brand-text strong {
-    font-family: var(--font-serif);
-    font-size: 1.05rem;
-    font-weight: 700;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-
-  .brand-text em {
     font-style: normal;
-    font-size: 0.72rem;
+    font-size: 0.9rem;
     font-weight: 600;
     color: var(--swatch--canopy);
     opacity: 0.75;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    max-width: 100%;
+    line-height: 1.15;
   }
 
   .menu-button {
@@ -297,7 +301,15 @@
       width: calc(100vw - 24px);
     }
 
-    .brand-text em {
+    .brand-logo--desktop {
+      display: none;
+    }
+
+    .brand-logo--mobile {
+      display: block;
+    }
+
+    .brand-text {
       display: none;
     }
 

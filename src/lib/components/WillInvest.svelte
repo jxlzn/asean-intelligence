@@ -6,11 +6,11 @@
   import ArticlesRolodex from './ArticlesRolodex.svelte';
 
   const infrastructureConfidence = [
-    { label: 'Indonesia', value: 94 },
-    { label: 'Vietnam', value: 89 },
-    { label: 'ASEAN average', value: 81 },
-    { label: 'Malaysia', value: 71 },
-    { label: 'Philippines', value: 66 }
+    { label: 'Indonesia', value: 94, group: 'Leading the pack' },
+    { label: 'Vietnam', value: 89, group: 'Leading the pack' },
+    { label: 'ASEAN average', value: 81, group: 'Regional benchmark' },
+    { label: 'Malaysia', value: 71, group: 'Lagging confidence' },
+    { label: 'Philippines', value: 66, group: 'Lagging confidence' }
   ];
 
   const energyThreats = [
@@ -27,10 +27,12 @@
 
   const apgInvestmentLift = [
     { label: 'Indonesia', value: 84 },
-    { label: 'Large enterprises', value: 77 },
     { label: 'ASEAN average', value: 71 },
+    { label: 'Malaysia', value: 70 },
     { label: 'Philippines', value: 70 },
-    { label: 'Malaysia', value: 70 }
+    { label: 'Vietnam', value: 68 },
+    { label: 'Singapore', value: 65 },
+    { label: 'Thailand', value: 65 }
   ];
 </script>
 
@@ -129,7 +131,7 @@
       />
       <BarChart
         caption="Investment catalyst"
-        title="Would increase investment if APG advances"
+        title="Countries more likely to invest if APG advances"
         items={apgInvestmentLift}
       />
     </div>

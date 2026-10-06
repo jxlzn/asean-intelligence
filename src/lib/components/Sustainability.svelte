@@ -5,9 +5,9 @@
 
   const priorities = [
     { label: 'Cost efficiency', value: 38, color: '#004b87' },
-    { label: 'All three equally important', value: 27, color: '#2da3d0' },
     { label: 'Energy security & reliability', value: 26, color: '#90d1e9' },
-    { label: 'Sustainability & decarbonisation', value: 9, color: '#cceaf5' }
+    { label: 'Sustainability & decarbonisation', value: 9, color: '#cceaf5' },
+    { label: 'All three equally important', value: 27, color: '#2da3d0' }
   ];
 
   const decarbonisationPace = [
@@ -16,10 +16,13 @@
   ];
 
   const acceleratingMarkets = [
-    { label: 'Indonesia accelerating', value: 39 },
-    { label: 'Vietnam accelerating', value: 37 },
-    { label: 'Singapore significant delays', value: 29 },
-    { label: 'Regional average significant delays', value: 20 }
+    { label: 'Indonesia', value: 39 },
+    { label: 'Vietnam', value: 37 }
+  ];
+
+  const delayingMarkets = [
+    { label: 'Singapore', value: 29 },
+    { label: 'Regional average', value: 20 }
   ];
 
   const cleanEnergyBarriers = [
@@ -31,7 +34,7 @@
   const policyDemands = [
     { label: 'Greater renewable access & procurement', value: 55 },
     { label: 'Tax incentives or grants', value: 48 },
-    { label: 'Energy subsidies', value: 43 }
+    { label: 'Investment in infrastructure', value: 43 }
   ];
 </script>
 
@@ -107,11 +110,21 @@
         title="Decarbonisation plans: pause vs push"
         items={decarbonisationPace}
       />
-      <BarChart
-        caption="Market divergence"
-        title="Acceleration vs significant delay"
-        items={acceleratingMarkets}
-      />
+      <div class="divergence">
+        <p class="caption">Market divergence</p>
+        <p class="divergence__title">Acceleration vs significant delay</p>
+        <div class="divergence__grid">
+          <div class="divergence__side">
+            <p class="divergence__label divergence__label--accelerate">Accelerating</p>
+            <BarChart title="" items={acceleratingMarkets} />
+          </div>
+          <div class="divergence__vs" aria-hidden="true">vs</div>
+          <div class="divergence__side">
+            <p class="divergence__label divergence__label--delay">Significant delays</p>
+            <BarChart title="" items={delayingMarkets} />
+          </div>
+        </div>
+      </div>
     </div>
 
     <blockquote class="quote-block" use:reveal>
@@ -154,19 +167,11 @@
         Rather than pursuing broad carbon reduction targets, organisations are focusing on tangible,
         cost-reducing sustainability actions.
       </p>
-      <p>Over the next three to five years, companies are overwhelmingly focused on:</p>
-    </div>
-    <ul class="bullet-list" use:reveal>
-      <li>
-        Energy efficiency: Improving energy efficiency and reducing overall consumption is the top
-        focus for 41 per cent of companies.
-      </li>
-      <li>
-        On-site renewables: One in five companies cited increasing the use of renewable energy
-        resources at their premises as one of their key actions.
-      </li>
-    </ul>
-    <div class="body-text" use:reveal>
+      <p>
+        Over the next three to five years, companies are focused on improving energy efficiency and
+        reducing overall consumption (41 per cent), increasing the use of renewable energy resources
+        (20 per cent), and reducing emissions from their own operations and energy use (17 per cent).
+      </p>
       <p>
         When selecting clean energy solutions, companies indicated that they favour mature and scalable
         technologies including on-site renewable generation such as rooftop solar (66 per cent) and
@@ -215,12 +220,12 @@
       <p>
         Policy demands: 55 per cent of businesses highlighted greater access to renewable energy
         sources and procurement options as their top policy requirement, outpacing requests for tax
-        incentives or grants (48 per cent) and energy subsidies (43 per cent).
+        incentives or grants (48 per cent) and investment in infrastructure (43 per cent).
       </p>
       <p>
-        Market-specific policy demands reflect local pain points: Respondents from Thailand prioritise
-        renewable access (66 per cent vs 55 per cent overall); Vietnam showed stronger demand for tax
-        incentives and grants (58 per cent vs 48 per cent overall); and Indonesia called for direct
+        Market-specific policy demands reflect local priorities: Respondents from Thailand prioritise
+        renewable access (66 per cent vs 55 per cent overall); Singapore showed stronger demand for tax
+        incentives and grants (52 per cent vs 48 per cent overall); and Indonesia called for direct
         energy subsidies and cost support (52 per cent vs 43 per cent overall).
       </p>
       <p>
@@ -270,9 +275,77 @@
     margin: 0;
   }
 
+  .divergence {
+    margin: 0;
+    padding: 28px 28px 24px;
+    background: color-mix(in srgb, white 28%, var(--swatch--canopy));
+    border-radius: 24px;
+  }
+
+  .divergence__title {
+    margin: 0 0 20px;
+    font-size: 1.15rem;
+    font-weight: 700;
+    line-height: 1.35;
+    color: var(--swatch--white);
+  }
+
+  .divergence__grid {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    gap: 12px;
+    align-items: stretch;
+  }
+
+  .divergence__side :global(.chart) {
+    margin: 0;
+    padding: 18px;
+    background: color-mix(in srgb, white 18%, var(--swatch--canopy));
+    box-shadow: none;
+  }
+
+  .divergence__label {
+    margin: 0 0 10px;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  .divergence__label--accelerate {
+    color: var(--swatch--golden-gate-light-green);
+  }
+
+  .divergence__label--delay {
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+  .divergence__vs {
+    display: grid;
+    place-items: center;
+    align-self: center;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.12);
+    color: white;
+    font-size: 0.85rem;
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
   @media (max-width: 900px) {
     .chart-pair {
       grid-template-columns: 1fr;
+    }
+
+    .divergence__grid {
+      grid-template-columns: 1fr;
+    }
+
+    .divergence__vs {
+      margin: 4px auto;
     }
   }
 </style>

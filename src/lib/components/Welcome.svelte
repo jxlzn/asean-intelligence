@@ -12,8 +12,14 @@
     <div class="two-col">
       <div class="body-text" use:reveal>
         <p>
-          Following the warm reception to our inaugural flagship study, Asean Intelligence 2026, The
-          Business Times is proud to present our second regional report, Powering Asean’s Future.
+          Following the warm reception to our inaugural flagship study,
+          <a
+            class="text-link"
+            href="https://www.businesstimes.com.sg/keywords/asean-intelligence-2026"
+            target="_blank"
+            rel="noopener noreferrer">Asean Intelligence 2026</a
+          >, The Business Times is proud to present our second regional report, Powering Asean’s
+          Future.
         </p>
         <p>
           Our purpose in undertaking this research is simple: to look beyond the daily churn of

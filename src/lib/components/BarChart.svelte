@@ -1,6 +1,6 @@
 <script>
   /**
-   * @typedef {{ label: string, value: number, note?: string }} BarItem
+   * @typedef {{ label: string, value: number, note?: string, group?: string }} BarItem
    * @type {{
    *   title?: string,
    *   caption?: string,
@@ -32,6 +32,11 @@
 
   <ul class="bars" role="list">
     {#each items as item, i}
+      {#if item.group && (i === 0 || items[i - 1].group !== item.group)}
+        <li class="bar-group" aria-hidden="true">
+          <span>{item.group}</span>
+        </li>
+      {/if}
       <li class="bar" style="--i: {i}">
         <div class="bar__meta">
           <span class="bar__label">{item.label}</span>
@@ -98,6 +103,27 @@
     display: flex;
     flex-direction: column;
     gap: 16px;
+  }
+
+  .bar-group {
+    margin: 4px 0 -4px;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--chart-accent);
+    opacity: 0.85;
+  }
+
+  .bar-group:not(:first-child) {
+    margin-top: 12px;
+    padding-top: 14px;
+    border-top: 1px solid rgba(26, 44, 37, 0.12);
+  }
+
+  :global(.section--dark) .bar-group:not(:first-child),
+  :global(.section--moss) .bar-group:not(:first-child) {
+    border-top-color: rgba(255, 255, 255, 0.16);
   }
 
   .bar__meta {

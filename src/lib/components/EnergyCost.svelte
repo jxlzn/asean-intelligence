@@ -54,7 +54,7 @@
 
     <div use:reveal>
       <BarChart
-        caption="Survey findings"
+        caption="Higher costs, lower profits"
         title="Share of businesses reporting higher energy bills"
         items={costByMarket}
       />
@@ -94,6 +94,14 @@
         cent.
       </p>
     </div>
+
+    <blockquote class="quote-block" use:reveal>
+      “Renewable energy is increasingly a way to manage costs while meeting regulatory and buyer
+      requirements. In Vietnam, access to capital is not the issue. The question is what return that
+      capital is willing to accept. And because regulation is still evolving through pilots, the model
+      can change, and those changes flow straight through to the bottom line.”
+    </blockquote>
+    <p class="quote-attr" use:reveal>Douglas Macfarlane, founder and CEO of VHALT</p>
 
     <CostPressureInteractive />
   </div>
@@ -161,10 +169,18 @@
     <div use:reveal>
       <BarChart
         caption="If energy costs remain elevated"
-        title="Preferred responses across ASEAN enterprises"
+        title="Asean enterprises favour structural changes"
         items={copingStrategies}
       />
     </div>
+
+    <blockquote class="quote-block" use:reveal>
+      “The energy crisis surging gas prices across Asean has pushed up electricity costs for
+      businesses, squeezing profit margins and undermining the region’s cost competitiveness. As long
+      as Asean remains reliant on imported fuels which are constantly exposed to geopolitical risks, it
+      is only a matter of time before another supply disruption.”
+    </blockquote>
+    <p class="quote-attr" use:reveal>Lam Pham, energy analyst, Ember</p>
 
     <h3 use:reveal>Building operational resilience</h3>
     <div class="body-text" use:reveal>
